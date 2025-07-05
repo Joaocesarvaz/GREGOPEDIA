@@ -1,0 +1,244 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;   
+}
+.lista-itens {
+    display: flex;
+    margin: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #d1c895;
+    max-width: 1000px;
+    padding: 0px 15px 0px 15px;
+}
+
+.pesquisa-area {
+    display: flex;
+    justify-content: center;
+    margin: 30px 0;
+}
+
+#pesquisa {
+    width: 100%;
+    max-width: 400px;
+    padding: 12px 20px 12px 20px;
+    border: 2px solid #bea964;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0px 2px 5px 0px rgba(190, 169, 99, 0.329);
+    color: #1d1d1d;
+    border-radius: 100px;
+}
+#pesquisa:focus {
+    border-color: #a7935d;
+    box-shadow: 0px 0px 8px 0px #a18e59;
+}
+
+nav {
+    max-width: 900px;      
+    margin: 0 auto;     
+    padding: 10px 0;       
+}
+nav ul{
+    list-style: none;
+    margin: 10px 0px 0px 0px;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+nav ul li button {
+    background-color: #bda761;
+    border: none;
+    color: #1b1b1b;
+    padding: 8px 16px 8px 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0px 0px 5px 0px rgba(184, 164, 98, 0.685);
+    font-weight: bold;
+    font-size: 14px;
+}
+
+nav ul li button:hover {
+    background-color: #a7935d;
+    color: white;
+    box-shadow: 0 0 10px rgb(185, 165, 98);
+}
+
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #1b1b1b;
+    color: #c7be8b;
+    min-height: 100%;
+    line-height: 1.5;
+    background-image: url('https://static.todamateria.com.br/upload/mi/to/mitologia-grega-og.jpg');
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+header {
+    background-color: #000000;
+    padding: 15px 20px 15px 20px;
+    text-align: center;
+    border-bottom: 4px solid #bda863;
+    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.699);
+}
+
+header h1 {
+    margin: 0;
+    font-weight: bold;
+    font-size: 2.5rem;
+    color: #bda863;
+    font-family: 'Georgia', serif;
+}
+
+nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 10px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    border-top: 2px solid #a7935d;
+    border-bottom: 2px solid #a7935d;
+    background-color: rgba(73, 65, 47, 0.829);
+    border-radius: 13px;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+main {
+    padding: 30px 20px 30px 20px;
+    max-width: 900px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(0, 0, 0, 0.664);
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.788);
+    color: #d3c990;
+    font-size: 16px;
+    border-radius: 10px;
+}
+footer{
+    background-color: #000000;
+    text-align: center;
+    padding: 15px 20px 15px 20px;
+    font-size: 14px;
+    margin-top: 40px;
+    border-top: 3px solid #bda863;
+    color: #bda863;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0px 0px 10px 10px;
+}
+
+/*Aqui é a parte que edita oque o Javasrcipt adisiona*/
+
+.item {
+    background-color: rgba(61, 54, 39, 0.849);
+    border: 1px solid #a7935d;
+    box-shadow: 0px 0px 8px 0px rgba(189, 168, 99, 0.39);
+    padding: 15px;
+    flex-direction: column;
+    width: 45%;
+    min-width: 280px;
+    align-items: center;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    display: flex;
+    position: relative;
+}
+
+.item.expanded {
+    width: 95%;
+    box-shadow: 0px 0px 20px 0px rgba(187, 166, 98, 0.795);
+    z-index: 10; /*pesquisei e vi que isso faz com que os elementos fiquem alinhados*/
+    background-color: rgba(70, 61, 43, 0.918);
+}
+
+.item h2{
+    color: #bda863;
+    text-align: center;
+    font-size: 22;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.conteudo-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+
+
+}
+.img-dinamica {
+    width: 100px;
+    height: auto;
+    margin-bottom: 10px;
+    transition: all 0.3s ease;
+    box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.603);
+}
+
+.item.expanded .img-dinamica {
+    width: 250px;
+    max-width: 100%;
+    margin-bottom: 15px;
+}
+
+.descricao-curta {
+    font-style: italic;
+    color: #aaaaaa;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+.descricao-longa {
+    display: none;
+    margin-top: 15px;
+    font-size: 15px;
+    color: #d3c992;
+    text-align: left;
+    width: 100%;
+}
+
+.item.expanded .descricao-longa {
+    display: block;
+}
+
+
+.btn-toggle {
+    background-color: #c5b069;
+    border: none;
+    color: #1f1f1f;
+    padding: 8px 15px 8px 15px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 5px;
+    transition: background-color 0.3s ease;
+    align-self: center;
+    box-shadow: 0px 0px 5px 0px rgba(190, 169, 99, 0.685);
+}
+
+.btn-toggle:hover {
+    background-color: #a5915b;
+    color: #ffffff;
+    box-shadow: 0px 0px 10px 0px rgb(187, 167, 100);
+}
