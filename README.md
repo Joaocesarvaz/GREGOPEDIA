@@ -17,6 +17,7 @@ ______________________________________________Letícia__________________________
 
 05/07/2025 - modificações e adições em algumas partes do css, adicionei mais uma categoria no html. algumas pesquisas de informações para adicionar no JSON, falta o JS
 
+06/07/2025 - coloquei 2 exemplos em todos os json. adicionei alguns selections e uns anjos meio transparentes indo de cima para baixo na tela inicial para deixar mais bonitinho
 
 __________________________________________Júlia Marília_____________________________________________
 
