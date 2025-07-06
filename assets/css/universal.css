@@ -60,16 +60,20 @@ nav ul li button {
     color: #1b1b1b;
     padding: 8px 16px 8px 16px;
     cursor: pointer;
-    transition: background-color 0.3s ease;
-    box-shadow: 0px 0px 5px 0px rgba(184, 164, 98, 0.685);
+    transition: all 0.3s ease;
+    box-shadow: 0px 0px 5px 0px white,
+                -1.5px 0 0 white;
     font-weight: bold;
     font-size: 14px;
+    margin-right: -1.5px;
 }
 
 nav ul li button:hover {
-    background-color: #a7935d;
-    color: white;
-    box-shadow: 0 0 10px rgb(185, 165, 98);
+    background-color: #998754;
+    color: rgb(231, 225, 225);
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2),
+                     0 0 5px rgb(218, 202, 152);
+    z-index: 1;
 }
 
 
@@ -109,14 +113,17 @@ nav ul{
     margin: 10px 0px 0px 0px;
     display: flex;
     justify-content: center;
-    gap: 25px;
-    border-top: 2px solid #a7935d;
-    border-bottom: 2px solid #a7935d;
-    background-color: rgba(73, 65, 47, 0.829);
+    gap: 0px;
+    border-top: 3px solid rgb(255, 255, 255);
+    border-bottom: 3px solid rgb(255, 255, 255);
+    border-left: 3px solid rgb(255, 255, 255);
+    border-right: 3px solid rgb(255, 255, 255);
+    background-color: #bda761;
     border-radius: 13px;
     max-width: 900px;
     margin-left: auto;
     margin-right: auto;
+    overflow: hidden ;
 }
 
 
@@ -135,6 +142,12 @@ main {
     border-radius: 10px;
 }
 footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+
     background-color: #000000;
     text-align: center;
     padding: 15px 20px 15px 20px;
@@ -149,7 +162,7 @@ footer{
     border-radius: 0px 0px 10px 10px;
 }
 
-/*Aqui é a parte que edita oque o Javasrcipt adisiona*/
+/*Aqui é a parte que edita oque o Javasrcipt adiciona*/
 
 .item {
     background-color: rgba(61, 54, 39, 0.849);

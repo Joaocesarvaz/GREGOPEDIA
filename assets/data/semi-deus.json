@@ -1,17 +1,46 @@
 [
   {
-    "nome": "exemplo",
-    "imagem": "../assets/img/images.jfif",
-    "descricaoCurta": "sdlkhsidhfishug",
-    "historia": "sdfkhsdfuihsdihsdu",
-    "detalhes": "skdfosdfjdsjfjsdfhdfisjfs"
+    "nome": "Aquilles",
+    "imagem": "../assets/img/aquilles.jpg",
+    "descricaoCurta": "o maior guerreiro da Guerra de Troia",
+    "historia": "Tétis estava muito preocupado com a mortalidade do filho. Ela fez tudo o que 
+    pôde para torná-lo imortal: ela queimou-o durante um incêndio todas as noites, depois vestiu 
+    suas feridas com uma pomada especial. Ela mergulhou no rio Styx, cujas águas acreditava-se que 
+    tornavam as pessoas invencíveis, como deuses. No entanto, ela agarrou-o com força ao pé quando o 
+    mergulhou no rio - com tanta força que a água não tocou no calcanhar. Como resultado, Aquiles era 
+    invencível em todos as partes, menos no calcanhar.
+
+    Quando ele tinha 9 anos de idade, uma cartomante previu que Aquiles morreria heroicamente na batalha contra os troianos. 
+    Quando soube disso, Tétis disfarçou Aquiles de menina e mandou-o morar na ilha grega de Skyros. Ser um grande guerreiro era
+    o destino de Aquiles, no entanto, ele logo deixou Skyros e se juntou ao exército grego.",
+    "detalhes": {
+      "mitoInterressante": ["Após o seu nascimento, Tétis entregou Aquiles ao pai, Peleu. Porém, por alguma
+       razão menos clara este nunca foi uma figura paterna muito presente. Em vez disso, entregou-o ao centauro Quíron, 
+       figura que ensinou as várias artes ao jovem herói."]
+    }
   },
   {
-    "nome": "fdsfsd",
-    "imagem": "../assets/img/images.jfif",
-    "descricaoCurta": "sdfsdfdsfsdfsdfdsf",
-    "historia": "sdfsdfdsfsdfdsfsdfsf",
-    "detalhes": "sdfdsfsdfdsfdsfdsfsd"
+    "nome": "Perseu",
+    "imagem": "../assets/img/perseu.webp",
+    "descricaoCurta": "conhecido como o matador da Medusa.",
+    "historia": "Acrísio, rei de Argos, era casado com Eurídice, filha de Lacedemon, e tinha uma filha, 
+    Dânae, mas não tinha filhos homens. Quando Acrísio perguntou ao oráculo como a filha dele poderia ter filhos homens, 
+    a resposta foi que Dânae teria um filho que o mataria.
+
+     Dânae foi trancada em uma câmara de bronze subterrânea e posta sob guarda, mas ela foi seduzida, segundo 
+     alguns autores, por Preto, irmão e rival de Acrísio, ou por Zeus, que assumiu a forma de uma chuva de ouro. 
+     Lactâncio, autor cristão que viveu por volta do ano 300, influenciado pelo evemerismo, diz que esta chuva de ouro 
+     foi, na verdade, uma larga soma em dinheiro que o rei imortal Zeus despejou sobre o colo de Dânae, para compensar a 
+     desonra que ele lhe fez, e que os poetas posteriores adotaram a chuva de ouro como figura de expressão, assim como 
+     chuva de ferro se refere a uma grande quantidade de dardos e flechas.
+
+     Acrísio, não acreditando que sua filha estivesse grávida de Zeus, colocou-a em um baú, 
+     que foi jogado ao mar. O cesto chegou à ilha de Sérifos, onde foi encontrado por Díctis, que criou o menino.",
+    "detalhes": {
+      "mitosInterressantes": ["Ainda que não tenha guardado rancor por seu avô, o oráculo estava certo. 
+      Isso porque quando Perseu participa de uma competição esportiva de lançamento de disco, sem saber da 
+      presença do avô, ele lança o disco com tanta força e acaba por acertar fatalmente Acrísio, que morre na hora."]
+    }
   }
 
 

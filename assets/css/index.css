@@ -18,6 +18,7 @@ body {
     background-attachment: fixed;
     align-items: center;
     background-size: cover;
+    padding-bottom: 70px;
 }
 
 
@@ -35,7 +36,8 @@ body {
     box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.733);
     color: #d3c993;
     font-size: 16px;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid #bda863;
 }
 
 
@@ -45,6 +47,7 @@ body {
     font-weight: 700px;
     margin-bottom: 20px;
     letter-spacing: 1px;
+    text-shadow: 2px 2px 4px black;
 }
 
 .texto-principal p{
@@ -56,6 +59,7 @@ body {
     margin-right: auto;
     margin-bottom: 50px;
     line-height: 1.5;
+    text-shadow: 2px 2px 4px black;
 }
 
 .blocos-principais{
@@ -83,6 +87,8 @@ body {
     padding: 20px;    
     text-align: center;
     border-radius: 10px;
+
+    border: 2px solid #bda863;
 }
 
 .bloco-sobre{
@@ -102,6 +108,8 @@ body {
     padding: 20px;    
     text-align: center;
     border-radius: 10px;
+
+    border: 2px solid #bda863;
 }
 
 /*movimento pro quando o mouse apssa por sima*/
@@ -142,6 +150,12 @@ body {
 
 
 footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+
     max-width: 900px;
     text-align: center;
     color: #bda863;
@@ -156,5 +170,6 @@ footer {
     margin-right: auto;
     border-radius: 0px 0px 10px 10px;
     width: 100%;
+    
 }
 
