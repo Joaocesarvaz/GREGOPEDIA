@@ -15,7 +15,7 @@ _________________________________________João César Vaz_______________________
 
 ______________________________________________Letícia_______________________________________________
 
-
+05/07/2025 - modificações e adições em algumas partes do css, adicionei mais uma categoria no html. algumas pesquisas de informações para adicionar no JSON, falta o JS
 
 
 __________________________________________Júlia Marília_____________________________________________
