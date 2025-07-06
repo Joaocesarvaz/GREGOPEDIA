@@ -23,6 +23,14 @@
     justify-content: center;
     margin: 30px 0;
 }
+.pesquisa-area::selection{
+
+    background-color: #bda863;
+    text-shadow: 2px 2px 4px black;
+    color: aliceblue;
+
+
+}
 
 #pesquisa {
     width: 100%;
@@ -98,6 +106,14 @@ header {
     border-bottom: 4px solid #bda863;
     box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.699);
 }
+header::selection{
+
+    background-color: #9e8121;
+    text-shadow: 2px 2px 4px black;
+    color: aliceblue;
+
+
+}
 
 header h1 {
     margin: 0;
@@ -161,6 +177,14 @@ footer{
     margin-right: auto;
     border-radius: 0px 0px 10px 10px;
 }
+footer::selection{
+
+    background-color: #bda863;
+    text-shadow: 2px 2px 4px black;
+    color: aliceblue;
+
+}
+
 
 /*Aqui é a parte que edita oque o Javasrcipt adiciona*/
 

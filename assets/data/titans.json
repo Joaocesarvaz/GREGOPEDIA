@@ -1,17 +1,34 @@
 [
   {
-    "nome": "exemplo",
-    "imagem": "../assets/img/images.jfif",
-    "descricaoCurta": "sdlkhsidhfishug",
-    "historia": "sdfkhsdfuihsdihsdu",
-    "detalhes": "skdfosdfjdsjfjsdfhdfisjfs"
+    "nome": "Urano",
+    "imagem": "../assets/img/images.urano.jpg",
+    "descricaoCurta": "Deus primordial que personifica o Céu estrelado.",
+    "historia": "Quando Gaia se estendeu solitária sob as estrelas não criadas, sentiu a vastidão do vazio 
+    acima de si. Então, por vontade própria, gerou Urano, o céu profundo e brilhante, para cobri-la por todos os lados.
+    Urano surgiu como um manto estrelado, envolvendo Gaia com seu corpo imenso. Ele era o domínio do alto, o princípio 
+    masculino do universo, repleto de possibilidades e silêncio. Junto à Terra, trouxe ao mundo os primeiros deuses com 
+    forma, os Titãs que moldariam eras inteiras.",
+    "detalhes": {
+      "mitoInterressante": ["Após ser castrado, o sangue de Urano cai sobre Gaia e dá origem às Erínias (deusas da vingança), 
+    aos Gigantes e às Ninfas Melíades. E seu órgão sexual jogado no mar gera Afrodite."]
+  }
   },
   {
-    "nome": "fdsfsd",
-    "imagem": "../assets/img/images.jfif",
-    "descricaoCurta": "sdfsdfdsfsdfsdfdsf",
-    "historia": "sdfsdfdsfsdfdsfsdfsf",
-    "detalhes": "sdfdsfsdfdsfdsfdsfsd"
+    "nome": "Gaia",
+    "imagem": "../assets/img/gaia.jpg",
+    "descricaoCurta": "Deusa primordial da Terra",
+    "historia": "No início de tudo, antes do tempo, da luz e da forma, havia apenas o Caos — um vazio 
+    profundo e silencioso. Mas então, do seio desse nada, surgiu Gaia, a Terra. Não nasceu de pais, nem 
+    foi moldada por mãos divinas. Simplesmente foi, despertando sozinha, poderosa e plena, como o chão firme 
+    sob os pés do universo.
+    aia era mais que solo. Era o fundamento da vida, o útero que acolhe, a força que sustenta, a essência 
+    da criação. Seu corpo formava montanhas, vales, rios e abismos. Seu coração pulsava com a fertilidade do mundo.",
+    "detalhes": {
+      "mitoInterressante": ["Erisictão, um rei arrogante da Tessália, mandou cortar uma árvore sagrada do bosque 
+      de Deméter, mas essa árvore era consagrada a Gaia. Mesmo alertado por sacerdotes, ele ignorou os avisos. Gaia, 
+      indignada com o sacrilégio, permitiu que Deméter o amaldiçoasse. Como punição, Erisictão foi acometido de uma 
+      fome insaciável. "]
+    }
   }
 
 

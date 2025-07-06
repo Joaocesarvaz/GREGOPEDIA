@@ -1,17 +1,45 @@
 [
   {
-    "nome": "exemplo",
-    "imagem": "../assets/img/images.jfif",
-    "descricaoCurta": "sdlkhsidhfishug",
-    "historia": "sdfkhsdfuihsdihsdu",
-    "detalhes": "skdfosdfjdsjfjsdfhdfisjfs"
-  },
+    "nome": "Eros",
+    "imagem": "../assets/img/eros.webp",
+    "descricaoCurta": "Deus do amor e do desejo sexual.",
+    "historia": "Nas brumas douradas do Olimpo, quando a deusa Afrodite emergiu das espumas do mar, 
+    envolta em beleza tão radiante que os próprios deuses vacilaram diante dela, um sentimento novo 
+    começou a crescer. Mas Afrodite, por mais encantadora que fosse, desejava mais que admiração — queria ser amada.
+    Foi assim que, do enlace secreto entre ela e Ares, o feroz deus da guerra, nasceu Eros — o amor em forma de criança.
+    Ao contrário de sua aparência ingênua, Eros trazia consigo um poder maior que o de muitos titãs: 
+    um arco leve e flechas duplas — as douradas, que acendiam o amor mais profundo, e as de chumbo, que 
+    faziam até os amantes mais devotos se repelirem.
+    Desde pequeno, voava pelo céu como um sopro de primavera, invisível aos olhos humanos, mas capaz 
+    de mudar destinos com um simples disparo. Um mortal, uma deusa, um herói — nenhum coração escapava de suas travessuras.",
+    "detalhes": {
+      
+      "mitoInterresante": ["Psiquê era uma mortal tão bela que os mortais começaram a adorá-la como 
+      se fosse a própria Afrodite. Com ciúmes, Afrodite envia seu filho Eros para fazer Psiquê se apaixonar 
+      pelo homem mais feio do mundo. Mas Eros, ao vê-la, acidentalmente se fere com a própria flecha e se apaixona por ela."]
+    }
+  }
   {
-    "nome": "fdsfsd",
-    "imagem": "../assets/img/images.jfif",
-    "descricaoCurta": "sdfsdfdsfsdfsdfdsf",
-    "historia": "sdfsdfdsfsdfdsfsdfsf",
-    "detalhes": "sdfdsfsdfdsfdsfdsfsd"
+    "nome": "Morfeu",
+    "imagem": "../assets/img/morfeu.jpg",
+    "descricaoCurta": "Deus do sono. um filho de Hipnos",
+    "historia": "No mais profundo vale do Érebo, onde o tempo não passa e o silêncio pesa como névoa, 
+    habita Hipnos, o sono eterno. Ali, entre flores de papoilas e rios de esquecimento, nasceu seu filho 
+    mais misterioso: Morfeu, o deus dos sonhos com forma humana.
+    Morfeu não andava entre os vivos. Preferia os salões tranquilos da noite, onde as consciências repousam. 
+    Enquanto seus irmãos criavam sonhos de monstros ou fantasias irreais, ele era o único capaz de copiar os 
+    gestos, a voz e o olhar de qualquer ser humano.
+    Era por ele que as pessoas viam, em sonhos, aqueles que amavam. Era ele quem trazia mensagens, saudades, 
+    avisos e consolos disfarçados de lembrança.",
+    "detalhes": {
+       "mitoInteressante": ["Alcíone era esposa de Céix. Quando Céix morre em um naufrágio, a deusa 
+       Íris é enviada por Hera para informar Alcíone de sua perda. Mas, em vez de mandar alguém diretamente, 
+       Hera pede que Morfeu, deus dos sonhos com forma humana, apareça em um sonho para contar a verdade. Morfeu, com seu 
+       talento de assumir a forma de qualquer pessoa, aparece para Alcíone como o próprio Céix, com roupas molhadas e o 
+       semblante da morte. Ele lhe diz que morreu no mar e pede que ela não espere mais por ele."]
+
+
+    }"sdfdsfsdfdsfdsfdsfsd"
   }
 
 
