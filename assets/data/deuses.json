@@ -2,61 +2,19 @@
   {
     "nome": "Zeus",
     "imagem": "../assets/img/zeus.png.webp",
-    "descricaoCurta": "Rei dos deuses e Deus do raio, do trovão e dos céus.",
-    "historia": "Zeus era filho dos titãs Cronos e Reia. Cronos regia o Universo,
-     e havia recebido uma profecia de que, um dia, um de seus filhos o destronaria, 
-     assim como ele havia feito com o seu próprio pai, Urano. Essa profecia fez com 
-     que Cronos devorasse todos os filhos que teve com sua esposa.
-
-    No nascimento de Zeus, Reia enganou o próprio marido entregando uma pedra com roupas 
-    de bebê para que Cronos a devorasse. Zeus foi enviado para Creta, onde foi criado por Gaia 
-    ou por ninfas que moravam nessa ilha, de acordo com as diferentes versões do mito. Quando adulto, 
-    ele retornou para resgatar seus irmãos.
-
-    Zeus fez seu pai vomitar aqueles que havia devorado, e, assim, Héstia, Deméter, Hera, Hades e Poseidon
-     foram libertados. Apesar de terem sido devorados, eles sobreviveram porque eram imortais. Depois do 
-     resgate dos irmãos, Zeus iniciou uma guerra contra os titãs que recebeu o nome de Titanomaquia. 
-     Esse conflito se estendeu por 10 anos.
-
-    Zeus e os deuses saíram vencedores, mas depois tiveram de travar outro conflito. Dessa vez, os inimigos
-     eram os gigantes, e essa foi a Gigantomaquia. Depois, os deuses olímpicos se estabeleceram como os mais
-     poderosos e influentes, e a divisão dos reinos foi realizada.
-
-    Zeus ficou com os céus, Poseidon ficou com as águas, e Hades ficou com o submundo. 
-    Nenhum deles tomou a Terra para si porque ela já pertencia a Gaia, mãe de Cronos. O papel 
-    de protagonismo no resgate de seus irmãos e nas duas guerras travadas contra titãs e gigantes fez 
-    com que Zeus se tornasse o mais poderoso dos deuses.",
-
-    "detalhes": {
-      
-      "mitoInterresante": ["Ganimedes era filho do rei Trós, 
-      de Troia, e era o responsável por cuidar do rebanho de seu pai 
-      nos arredores da cidade. Era um jovem muito belo, o que despertou o interesse 
-      dos deuses, em especial de Zeus. Desejando ter a beleza do jovem ao seu lado, 
-      Zeus transformou-se em uma águia, desceu à terra e raptou Ganimedes, levando-o aos céus."]
-    }
+    "descricaoCurta": "Deus do céu e líder dos deuses do Olimpo.",
+    "historia": "Zeus é o deus supremo da mitologia grega...",
+    "detalhes": "Liderou a guerra contra os Titãs e governa o Monte Olimpo."
   },
   {
-    "nome": "Athena",
-    "imagem": "../assets/img/athena.jpg",
-    "descricaoCurta": "Deusa da sabedoria e da Guerra",
-    "historia": "Atena era filha de Zeus com Métis, deusa da saúde e da prudência, 
-    sendo que Métis ficou conhecida como a primeira esposa de Zeus. Depois que Métis engravidou, 
-    Gaia (personificação da Terra) teria avisado Zeus que seu filho poderia se voltar contra ele.
-
-    Isso perturbou Zeus, pois ele tinha feito isso contra seu pai, Cronos. Assim, Zeus decidiu enganar 
-    Métis e a engoliu por inteiro, mas a deusa conseguiu dar à luz dentro de Zeus. Atena teria nascido ao 
-    sair da cabeça de seu pai já em sua forma adulta e munida de sua armadura e armas.",
-
-    "detalhes": {
-      
-      "mitoInteressante": [
-        "A tecelã mortal Aracne desafiou Atena para uma competição de tecelagem. Quando Atena viu o tapete perfeito de 
-        Aracne (que retratava os deuses em situações vergonhosas), ficou furiosa e transformou Aracne na primeira aranha, 
-        condenando-a a tecer para sempre."
-      ]
-    }
-
+    "nome": "Hera",
+    "imagem": "../assets/img/images.jfif",
+    "descricaoCurta": "Deusa do casamento e rainha do Olimpo.",
+    "historia": "Hera é a esposa de Zeus e protetora do casamento e das mulheres.",
+    "detalhes": "É conhecida por seu ciúme e sua força."
   }
+
+
+
 
 ]

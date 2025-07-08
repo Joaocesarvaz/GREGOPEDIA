@@ -3,20 +3,14 @@
     "nome": "A Odisseia",
     "imagem": "../assets/img/odisseia.jpg",
     "descricaoCurta": "é um poema épico que narra a longa e perigosa jornada de volta para casa do herói grego Odisseu",
-    "historia": "Odisseu enfrenta diversos desafios e monstros no caminho de volta para a ilha de Ítaca, onde sua esposa 
-    Penélope e seu filho Telêmaco aguardam seu retorno. Entre seus obstáculos estão o ciclopes Polifemo, as sedutoras Sereias, 
-    a feiticeira Circe e o estreito perigoso entre Scylla e Caríbdis. Enquanto isso, em Ítaca, Penélope enfrenta pretendentes 
-    que querem tomar a casa e o trono de Odisseu.",
+    "historia": "Odisseu enfrenta diversos desafios e monstros no caminho de volta para a ilha de Ítaca, onde sua esposa Penélope e seu filho Telêmaco aguardam seu retorno. Entre seus obstáculos estão o ciclopes Polifemo, as sedutoras Sereias, a feiticeira Circe e o estreito perigoso entre Scylla e Caríbdis. Enquanto isso, em Ítaca, Penélope enfrenta pretendentes que querem tomar a casa e o trono de Odisseu.",
     "detalhes": ""
   },
   {
     "nome": "A Illiada",
     "imagem": "../assets/img/illiada.webp",
     "descricaoCurta": "é um poema épico que narra os eventos de algumas semanas durante o décimo ano da Guerra de Troia",
-    "historia": "A trama principal gira em torno da ira do herói grego Aquiles. 
-    Depois de uma disputa com Agamenon, líder dos gregos, Aquiles se recusa a lutar, o que 
-    causa grandes perdas para seu exército. A narrativa cobre batalhas intensas, feitos heroicos, 
-    conflitos pessoais, e tragédias, como a morte de Pátroclo, amigo querido de Aquiles",
+    "historia": "A trama principal gira em torno da ira do herói grego Aquiles. Depois de uma disputa com Agamenon, líder dos gregos, Aquiles se recusa a lutar, o que causa grandes perdas para seu exército. A narrativa cobre batalhas intensas, feitos heroicos, conflitos pessoais, e tragédias, como a morte de Pátroclo, amigo querido de Aquiles",
     "detalhes": "nesse caso, aqui ficaria o link do livro blz"
   }
 

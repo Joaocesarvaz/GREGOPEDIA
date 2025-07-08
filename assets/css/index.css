@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Passero+One&display=swap');
 
 /*Gente, os asterisco seleciona todos os elemntos*/
 * {
@@ -7,7 +10,7 @@
 }
 
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Playfair Display", serif;
     background-image: url('https://static.todamateria.com.br/upload/mi/to/mitologia-grega-og.jpg');
     background-position: center;
     color: #d3c993;
@@ -44,7 +47,7 @@ body {
     box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.733);
     color: #d3c993;
     font-size: 16px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Gideon Roman", serif;
     border: 2px solid #bda863;
 }
 
@@ -68,6 +71,7 @@ body {
     margin-bottom: 50px;
     line-height: 1.5;
     text-shadow: 2px 2px 4px black;
+    font-family: "Gideon Roman", serif;
 }
 
 .blocos-principais{
@@ -89,15 +93,16 @@ body {
     text-decoration: none;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: pointer;
-    font-family: Georgia, 'Times New Roman', Times, serif;
     height: 240px;
     display: flex;
     padding: 20px;    
     text-align: center;
     border-radius: 10px;
-
+    font-family: "Passero One", sans-serif;
     border: 2px solid #bda863;
 }
+
+
 
 .bloco-sobre{
     background-color: rgba(0, 0, 0, 0.767);
@@ -110,7 +115,7 @@ body {
     text-decoration: none;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: pointer;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Passero One", sans-serif;
     height: 240px;
     display: flex;
     padding: 20px;    
@@ -194,7 +199,6 @@ animation: float 7s ease-in-out infinite 1s;
 
 
 footer {
-    position: fixed;
     bottom: 0;
     left: 0;
     right: 0;
@@ -203,9 +207,8 @@ footer {
     max-width: 900px;
     text-align: center;
     color: #bda863;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Playfair Display", serif;
     background-color: #000000;
-    font-size: 14px;
     font-size: 14px;
     border-top: 5px solid #bda863;
     padding: 15px 20px 15px 20px;
