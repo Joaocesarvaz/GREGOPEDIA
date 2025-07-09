@@ -24,7 +24,7 @@ ______________________________________________Letícia__________________________
 __________________________________________Júlia Marília_____________________________________________
 
 
-
+06/07/2025 e 08/07/2025 - Montagem da pagina inicial no canva e começo da montagem do layout das demais paginas também no canva.
 
 
 Comentários:
