@@ -9,7 +9,7 @@ _________________________________________João César Vaz_______________________
 
 05/07/2025 - Estilização das páginas. Falta a Quiz, Sobre,a base de dados com cada personagem em json, e adição do JS que ira faze os blocos com os personagens aparecerem e fará com que seja exibido nas páginas, para não ter que adicionar tudo diretamente no HTML. E o JS que fará o Quiz funcionar.
 
-08/07/2025 - Corriji o Json e adcionei algumas fontes importadas.
+08/07/2025 - Corriji o Json e adcionei algumas fontes importadas. Adição da tela adaptável ao celular.
 
 
 
