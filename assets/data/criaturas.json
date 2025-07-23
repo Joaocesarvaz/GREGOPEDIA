@@ -12,7 +12,30 @@
     "descricaoCurta": "monstro marinho temido pelos navegadores",
     "historia": "ela era uma ninfa marinha de beleza encantadora, filha do deus marinho Fórcis  e da deusa marinha Ceto. Ela era tão bela que atraía olhares de deuses e mortais, vivendo livre e tranquila à beira-mar.Um dos que se apaixonaram por ela foi Glauco, um pescador que se transformou em deus marinho após comer uma erva mágica. Glauco se encantou por Scylla, mas ela rejeitava seu amor constantemente. Desesperado, Glauco procurou a ajuda da feiticeira Circe, famosa por seus encantos e poções. Ele pediu que Circe criasse uma poção para conquistar o coração de Scylla — mas Circe, apaixonada por Glauco, ficou furiosa com o pedido.Consumida pelo ciúme, Circe preparou uma poção maligna e a derramou discretamente na água onde Scylla costumava se banhar. Quando a ninfa entrou na água, sentiu seu corpo se contorcer e transformar: de sua cintura brotaram cães monstruosos com bocas famintas, e seu corpo se encheu de tentáculos e deformidades. Horrorizada ao ver sua própria imagem refletida, Scylla fugiu e se isolou em uma caverna em um penhasco, tornando-se um símbolo vivo doque a inveja e o ódio podem causar.Desde então, Scylla se tornou uma predadora marinha, atacando navios que passavam perto de sua morada. Ela se escondia entre as rochas e, com suas seis cabeças, agarrava marinheiros desprevenidos, devorando-os imediatamente.",
     "detalhes": ""
+  },
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "nome": "Mente Brilhante",
+    "imagem": "../assets/img/salum_easter_egg-image.png",
+    "descricaoCurta": "Secretamente conhecido como Professor William Salum",
+    "historia": "Dá aula no Cefet onde o Mateus Bitencourt estuda",
+    "detalhes": ""
+  },
+  {
+    "nome": "Autista Extremo",
+    "imagem": "../assets/img/autismo.jpg",
+    "descricaoCurta": "Secretamente conhecido como Mateus Bitencourt Barbosa",
+    "historia": "É autista mas finge ser retardado",
+    "detalhes": "Tudo brincadeirinha"
   }
-
-
 ]

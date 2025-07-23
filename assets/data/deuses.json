@@ -12,9 +12,30 @@
     "descricaoCurta": "Deusa do casamento e rainha do Olimpo.",
     "historia": "Hera é a esposa de Zeus e protetora do casamento e das mulheres.",
     "detalhes": "É conhecida por seu ciúme e sua força."
+  },
+
+
+
+
+
+
+
+
+  
+  {
+    "nome": "Mente Brilhante",
+    "imagem": "../assets/img/salum_easter_egg-image.png",
+    "descricaoCurta": "Secretamente conhecido como Professor William Salum",
+    "historia": "Dá aula no Cefet onde o Mateus Bitencourt estuda",
+    "detalhes": ""
+  },
+  {
+    "nome": "Autista Extremo",
+    "imagem": "../assets/img/autismo.jpg",
+    "descricaoCurta": "Secretamente conhecido como Mateus Bitencourt Barbosa",
+    "historia": "É autista mas finge ser retardado",
+    "detalhes": "Tudo brincadeirinha"
   }
-
-
 
 
 ]

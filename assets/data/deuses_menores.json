@@ -12,7 +12,27 @@
     "descricaoCurta": "Deus do sono. um filho de Hipnos",
     "historia": "No mais profundo vale do Érebo, onde o tempo não passa e o silêncio pesa como névoa, habita Hipnos, o sono eterno. Ali, entre flores de papoilas e rios de esquecimento, nasceu seu filho  mais misterioso: Morfeu, o deus dos sonhos com forma humana.Morfeu não andava entre os vivos. Preferia os salões tranquilos da noite, onde as consciências repousam.  Enquanto seus irmãos criavam sonhos de monstros ou fantasias irreais, ele era o único capaz de copiar os  gestos, a voz e o olhar de qualquer ser humano.Era por ele que as pessoas viam, em sonhos, aqueles que amavam. Era ele quem trazia mensagens, saudades, avisos e consolos disfarçados de lembrança.",
     "detalhes":""
+  },
+
+
+
+
+
+
+
+  
+  {
+    "nome": "Mente Brilhante",
+    "imagem": "../assets/img/salum_easter_egg-image.png",
+    "descricaoCurta": "Secretamente conhecido como Professor William Salum",
+    "historia": "Dá aula no Cefet onde o Mateus Bitencourt estuda",
+    "detalhes": ""
+  },
+  {
+    "nome": "Autista Extremo",
+    "imagem": "../assets/img/autismo.jpg",
+    "descricaoCurta": "Secretamente conhecido como Mateus Bitencourt Barbosa",
+    "historia": "É autista mas finge ser retardado",
+    "detalhes": "Tudo brincadeirinha"
   }
-
-
 ]

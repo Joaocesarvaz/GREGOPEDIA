@@ -11,6 +11,7 @@ _________________________________________João César Vaz_______________________
 
 08/07/2025 - Corriji o Json e adcionei algumas fontes importadas. Adição da tela adaptável ao celular.
 
+22/07/2025 - Adicionei todo o JS (como não aprendemos ainda, usei ajuda.) Além de adicionar um design legais (provavelmente temporário para o Quiz); Pensando em alterar um pouco o estilo de todas as páginas, deixa-las com mais cor e vida.
 
 
 

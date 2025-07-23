@@ -73,8 +73,7 @@ nav ul li button {
     padding: 8px 16px 8px 16px;
     cursor: pointer;
     transition: all 0.3s ease;
-    box-shadow: 0px 0px 5px 0px white,
-                -1.5px 0 0 white;
+    box-shadow: 0px 0px 5px 0px white, -1.5px 0 0 white;
     font-weight: bold;
     font-size: 14px;
     margin-right: -1.5px;
@@ -83,8 +82,7 @@ nav ul li button {
 nav ul li button:hover {
     background-color: #998754;
     color: rgb(231, 225, 225);
-    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2),
-                        0 0 5px rgb(218, 202, 152);
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2), 0 0 5px rgb(218, 202, 152);
     z-index: 1;
 }
 
@@ -162,12 +160,11 @@ main {
     border-radius: 10px;
 }
 footer{
-    position: fixed;
+
     bottom: 0;
     left: 0;
     right: 0;
     z-index: 1000;
-
     background-color: #000000;
     text-align: center;
     padding: 15px 20px 15px 20px;
@@ -204,6 +201,7 @@ footer::selection{
     cursor: pointer;
     display: flex;
     position: relative;
+    border-radius: 10px;
 }
 
 .item.expanded {
@@ -219,6 +217,7 @@ footer::selection{
     font-size: 22px; 
     margin-bottom: 10px;
     font-weight: bold;
+    letter-spacing: 1px;
 }
 .conteudo-item {
     display: flex;
@@ -284,136 +283,115 @@ footer::selection{
 }
 
 
-/* --- Media Queries para Responsividade --- */
 
-/* Para telas até 768px (tablets e smartphones maiores) */
+
+
 @media screen and (max-width: 768px) {
-
     header h1 {
-        font-size: 2rem; /* Um pouco menor pro título do cabeçalho */
+        font-size: 2rem;
     }
-
     nav ul {
-        flex-wrap: wrap; /* Botões de navegação quebram a linha se precisar */
-        gap: 8px; /* Reduz um pouco o espaçamento entre eles */
-        padding: 5px; /* Adiciona um padding pra não ficar grudado */
+        flex-wrap: wrap;
+        gap: 8px;
+        padding: 5px;
     }
-
     nav ul li button {
-        padding: 6px 12px; /* Botões um pouco menores */
+        padding: 6px 12px;
         font-size: 13px;
     }
-
     .pesquisa-area {
-        margin: 20px 0; /* Um pouquinho menos de margem pra pesquisa */
+        margin: 20px 0;
     }
-
     #pesquisa {
-        padding: 10px 15px; /* Campo de busca mais compacto */
+        padding: 10px 15px;
         font-size: 15px;
     }
-
     main {
-        padding: 20px 15px; /* Reduz o padding do conteúdo principal */
-        margin-top: 25px; /* Ajusta a margem superior */
+        padding: 20px 15px;
+        margin-top: 25px;
     }
-
     .lista-itens {
-        margin: 20px auto; /* Ajusta a margem da lista de itens */
-        gap: 15px; /* Reduz o espaçamento entre os itens */
-        padding: 0 10px; /* Reduz padding lateral */
+        margin: 20px auto;
+        gap: 15px;
+        padding: 0 10px;
     }
-
     .item {
-        width: calc(100% - 20px); /* Cada item ocupa quase a largura total, empilhando */
-        min-width: unset; /* Remove o min-width para melhor adaptação */
+        width: calc(100% - 20px);
+        min-width: unset;
         padding: 15px;
     }
-
     .item h2 {
-        font-size: 20px; /* Título do item um pouco menor */
+        font-size: 20px;
         margin-bottom: 8px;
     }
-
     .img-dinamica {
-        width: 80px; /* Imagem um pouco menor */
+        width: 80px;
     }
-
     .item.expanded .img-dinamica {
-        width: 180px; /* Imagem expandida menor também */
+        width: 180px;
     }
-
     .descricao-curta, .descricao-longa {
-        font-size: 14px; /* Textos de descrição menores */
+        font-size: 14px;
     }
-
     footer {
-        padding: 10px 15px; /* Footer mais compacto */
+        padding: 10px 15px;
         font-size: 12px;
         margin-top: 25px;
     }
 }
 
-/* Para telas bem pequenas (smartphones, até 480px) */
+*::selection {
+    background-color: #bda863;
+    text-shadow: 2px 2px 4px black;
+    color: aliceblue;
+}
+
 @media screen and (max-width: 480px) {
-
     header h1 {
-        font-size: 1.8rem; /* Título do cabeçalho ainda menor */
+        font-size: 1.8rem;
     }
-
     nav ul {
-        gap: 5px; /* Menos espaço entre os botões */
+        gap: 5px;
     }
-
     nav ul li button {
-        padding: 5px 10px; /* Botões bem pequenos */
+        padding: 5px 10px;
         font-size: 12px;
     }
-
     #pesquisa {
-        padding: 8px 12px; /* Campo de busca bem pequeno */
+        padding: 8px 12px;
         font-size: 14px;
     }
-
     main {
-        padding: 15px 10px; /* Conteúdo principal bem compacto */
+        padding: 15px 10px;
         margin-top: 20px;
     }
-
     .lista-itens {
         margin: 15px auto;
-        gap: 10px; /* Pouco espaço entre os itens */
+        gap: 10px;
         padding: 0 5px;
     }
-
     .item {
-        width: calc(100% - 10px); /* Ocupa quase a largura total, com menos margem */
+        width: calc(100% - 10px);
         padding: 10px;
     }
-
     .item h2 {
-        font-size: 18px; /* Título do item ainda menor */
+        font-size: 18px;
     }
-
     .img-dinamica {
-        width: 60px; /* Imagem menor ainda */
+        width: 60px;
     }
-
     .item.expanded .img-dinamica {
-        width: 150px; /* Imagem expandida bem menor */
+        width: 150px;
     }
-
     .descricao-curta, .descricao-longa {
-        font-size: 13px; /* Textos de descrição bem pequenos */
-    }
-
-    .btn-toggle {
-        padding: 6px 12px; /* Botão de toggle menor */
         font-size: 13px;
     }
-
+    .btn-toggle {
+        padding: 6px 12px;
+        font-size: 13px;
+    }
     footer {
-        padding: 8px 10px; /* Footer mínimo */
+        padding: 8px 10px;
         font-size: 10px;
         margin-top: 20px;
     }

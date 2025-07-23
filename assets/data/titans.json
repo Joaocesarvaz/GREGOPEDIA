@@ -12,6 +12,29 @@
     "descricaoCurta": "Deusa primordial da Terra",
     "historia": "No início de tudo, antes do tempo, da luz e da forma, havia apenas o Caos — um vazio profundo e silencioso. Mas então, do seio desse nada, surgiu Gaia, a Terra. Não nasceu de pais, nem  foi moldada por mãos divinas. Simplesmente foi, despertando sozinha, poderosa e plena, como o chão firme  sob os pés do universo.aia era mais que solo. Era o fundamento da vida, o útero que acolhe, a força que sustenta, a essência  da criação. Seu corpo formava montanhas, vales, rios e abismos. Seu coração pulsava com a fertilidade do mundo.",
     "detalhes": ""
+  },
+
+  
+
+
+
+
+
+
+  
+  {
+    "nome": "Mente Brilhante",
+    "imagem": "../assets/img/salum_easter_egg-image.png",
+    "descricaoCurta": "Secretamente conhecido como Professor William Salum",
+    "historia": "Dá aula no Cefet onde o Mateus Bitencourt estuda",
+    "detalhes": ""
+  },
+  {
+    "nome": "Autista Extremo",
+    "imagem": "../assets/img/autismo.jpg",
+    "descricaoCurta": "Secretamente conhecido como Mateus Bitencourt Barbosa",
+    "historia": "É autista mas finge ser retardado",
+    "detalhes": "Tudo brincadeirinha"
   }
 
 

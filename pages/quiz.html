@@ -5,34 +5,67 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gregopédia - Quiz</title>
     <link rel="stylesheet" href="../assets/css/quiz.css">
+    <link rel="stylesheet" href="../assets/css/base.css">
 </head>
-
 
 <body>
     <header>
         <h1>Gregopédia - Quiz</h1>
         <nav>
             <ul>
-                <li><a href="../index.html"><button>Início</button></a></li>
-                <li><a href="semi-deuses.html"><button>Semi-deuses</button></a></li>
-                <li><a href="titans.html"><button>Titãs</button></a></li>
-                <li><a href="deuses_olimpicos.html"><button>Deuses Olim...</button></a></li>
-                <li><a href="criaturas.html"><button>Criaturas</button></a></li>
-                <li><a href="decidir"><button>Guerras</button></a></li>
-                <li><a href="decidir"><button>Reinos</button></a></li>   
-                <li><a href="deuses_menores.html"><button>Deuses Menores</button></a></li>                
-                <li><a href="livros.html"><button>livros</button></a></li>
-                <li><a href="sobre.html"><button>Sobre</button></a></li> 
-
+                <li><a href="/"><button>Início</button></a></li>
+                <li><a href="/semi-deuses.html"><button>Semi-deuses</button></a></li>
+                <li><a href="/titans.html"><button>Titãs</button></a></li>
+                <li><a href="/deuses_olimpicos.html"><button>Deuses</button></a></li>
+                <li><a href="/criaturas.html"><button>Criaturas</button></a></li>
+                <li><a href="/Guerras.html"><button>Guerras</button></a></li>
+                <li><a href="/Reinos.html"><button>Reinos</button></a></li>
+                <li><a href="/deuses_menores.html"><button>Deuses Men...</button></a></li>
+                <li><a href="/livros.html"><button>Livros</button></a></li>
+                <li><a href="/sobre.html"><button>Sobre</button></a></li>
             </ul>
         </nav>
     </header>
 
+    <main>
+        <section id="introduction">
+            <h2>🔱 Desvende seu Destino Olímpico! ⚡</h2>
+            <p>Responda nosso quiz mitológico e descubra qual poderoso deus do Olimpo reside em sua alma!</p>
+            
+            
+            <button id="startQuizButton">Começar Quiz</button>
+        </section>
+
+        <section id="quiz">
+            <h2>Descubra qual deus da mitologia você se parece!</h2>
+
+            <form id="formularioQuiz">
+                <div id="quizContainer">
+                    </div>
+                <div id="quizNavigation">
+                    <button type="button" id="btnAnterior" style="display: none;">Anterior</button>
+                   
+                 <button type="button" id="btnProximo">Próximo</button>
+                    <button type="submit" id="btnFinalizar" style="display: none;">Ver Resultado</button>
+                </div>
+            </form>
+        </section>
+
+        <div id="resultado">
+            <div class="resultado-final">
+                <img id="imagemDeus" src="" alt="Imagem do Deus">
+                <p id="textoResultado"></p>
+            </div>
+        </div>
+    </main>
+
     <footer>
-        <p>&COPY; 2025 Gregopédia - João César Vaz de Oliveira Canhestro Machado,
+        <p>&copy; 2025 Gregopédia - João César Vaz de Oliveira Canhestro Machado,
             Letícia Helena,
             Júlia Marília.
         </p>
     </footer>
+
+    <script src="../assets/js/quiz.js"></script>
 </body>
 </html>
