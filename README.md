@@ -22,6 +22,8 @@ ______________________________________________Letícia__________________________
 
 06/07/2025 - coloquei 2 exemplos em todos os json. adicionei alguns selections e uns anjos meio transparentes indo de cima para baixo na tela inicial para deixar mais bonitinho
 
+24/07/2025 - adicionei outro index para uma nova tela inicial(como sugerida na aula do dia 16), junto do JS(foi utilizado ajuda e dicas) e de uma estilização basica 
+
 __________________________________________Júlia Marília_____________________________________________
 
 
@@ -31,3 +33,5 @@ __________________________________________Júlia Marília_______________________
 Comentários:
 
 No Json, lembre-se que o última chaves não pode ter virgula mas os outros tem que ter se nao dá erro, o mesmo pro ultipo item, nesse caso detalhes, ele nunca pode ter virgula, mas os outros tem que devem ter.
+
+na tela inicial falta ter mais vida nela, ela ainda ta feinha, mas se nao mexerem nela, planejo arrumar no final de semana e adicionar a transição
