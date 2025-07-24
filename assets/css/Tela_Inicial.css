@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Passero+One&display=swap');
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    font-family: 'Playfair Display', serif;
+    background-color: black;
+}
+
+h2 {
+    color: #ffffff;
+    text-align: center;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    font-size: 4rem;
+    color: #ffe08a;
+    text-shadow: 2px 2px 8px #000;
+    font-family: 'Passero One', cursive;
+}
+
+
+.resumo {
+    font-size: 1.2rem;
+    max-width: 750px;
+    color: #ffe8a0;
+    text-align: center;
+    padding: 20px;
+    line-height: 1.7;
+    text-shadow: 1px 1px 5px #000;
+    font-family: 'Playfair Display', serif;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 2px solid #f8d477;
+    border-radius: 15px;
+    margin-top: auto;
+    order: 1;
+    animation: aparecerTexto 2s ease-in-out;
+    margin-bottom: 0;
+}
+
+
+
+
+
+.capa {
+    background-image: url('https://contosdetodososcantos.com.br/wp-content/uploads/2024/05/12-Deuses-Olimpicos-na-Mitologia-Grega2-1024x737.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    animation: brilhoFundo 6s infinite alternate;
+}
+
+
+
+
+.botao {
+    font-size: 3rem;
+    padding: 25px 70px;
+    background: rgba(0, 0, 0, 0.85);
+    color: #e7b22d;
+    border: 4px solid #f8d477;
+    border-radius: 20px;
+    text-shadow: 2px 2px 5px #000000;
+    box-shadow: 0 0 25px #f8d47788;
+    cursor: pointer;
+    transition: all 0.4s ease;
+    z-index: 2;
+}
+
+.botao:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 35px 10px #f8d477cc;
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+.transicao {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0;
+    z-index: 1;
+    pointer-events: none;
+    transition: opacity 1.5s ease;
+}
+
+.transicao.ativo {
+    opacity: 1;
+}
+
+.texto_inicial {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    height: 100vh;
+    width: 100%;
+    padding: 40px;
+    z-index: 2;
+}
+
+@keyframes aparecerTexto {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes brilhoFundo {
+    from {
+        filter: brightness(1);
+    }
+
+    to {
+        filter: brightness(1.2);
+    }
+}
