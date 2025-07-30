@@ -24,6 +24,8 @@ ______________________________________________Letícia__________________________
 
 24/07/2025 - adicionei outro index para uma nova tela inicial(como sugerida na aula do dia 16), junto do JS(foi utilizado ajuda e dicas) e de uma estilização basica 
 
+29/07/2025 - melhorei a estilização da tela inicial, coloquei uma animação para passar logo apos iniciar a transição ao clicar no botao da tela inicial, terminei de colocar a aba guerras no json e tentei colocar no js, adicionei mais no json de reinos
+
 __________________________________________Júlia Marília_____________________________________________
 
 
