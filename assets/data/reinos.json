@@ -1,17 +1,17 @@
 [
   {
-    "nome": "A Odisseia",
-    "imagem": "../assets/img/odisseia.jpg",
-    "descricaoCurta": "é um poema épico que narra a longa e perigosa jornada de volta para casa do herói grego Odisseu",
-    "historia": "Odisseu enfrenta diversos desafios e monstros no caminho de volta para a ilha de Ítaca, onde sua esposa Penélope e seu filho Telêmaco aguardam seu retorno. Entre seus obstáculos estão o ciclopes Polifemo, as sedutoras Sereias, a feiticeira Circe e o estreito perigoso entre Scylla e Caríbdis. Enquanto isso, em Ítaca, Penélope enfrenta pretendentes que querem tomar a casa e o trono de Odisseu.",
-    "detalhes": ""
+    "nome": "O mar",
+    "imagem": "../assets/img/mar.jpg",
+    "descricaoCurta": "Domínio de Poseidon, deus dos mares, terremotos e cavalos.",
+    "historia": "Após a queda dos Titãs, Zeus, Hades e Poseidon dividiram o mundo em três partes. Poseidon ficou com os mares e passou a governar tudo o que estivesse sob as águas. Ele construiu um magnífico palácio feito de ouro e corais nas profundezas do oceano — um reino mágico e inacessível aos mortais. De lá, comandava os mares com seu tridente poderoso, capaz de causar tempestades, maremotos e terremotos. Seu poder era imenso, respeitado até mesmo pelos deuses olímpicos.",
+    "detalhes": "O domínio de Poseidon não era apenas uma região física, mas uma força viva e ativa da natureza. Seu reino submarino era habitado por seres míticos, como os tritões (meio homem, meio peixe), as nereidas (ninfas do mar), e monstros como Ceto e Escila. Poseidon também era conhecido por criar novas terras ao erguer ilhas do fundo do mar e por abrir fendas no solo com um simples golpe de seu tridente."
   },
   {
-    "nome": "A Illiada",
-    "imagem": "../assets/img/illiada.webp",
-    "descricaoCurta": "é um poema épico que narra os eventos de algumas semanas durante o décimo ano da Guerra de Troia",
-    "historia": "A trama principal gira em torno da ira do herói grego Aquiles. Depois de uma disputa com Agamenon, líder dos gregos, Aquiles se recusa a lutar, o que causa grandes perdas para seu exército. A narrativa cobre batalhas intensas, feitos heroicos, conflitos pessoais, e tragédias, como a morte de Pátroclo, amigo querido de Aquiles",
-    "detalhes": "nesse caso, aqui ficaria o link do livro blz"
+    "nome": "Monte Olimpo",
+    "imagem": "../assets/img/transferir.jpg",
+    "descricaoCurta": "Monte sagrado e morada dos doze deuses olímpicos",
+    "historia": "O Monte Olimpo é o lar sagrado dos deuses olímpicos, especialmente os doze principais, liderados por Zeus. Após a vitória na Titanomaquia, Zeus e seus irmãos estabeleceram o novo domínio dos deuses no ponto mais alto da Grécia, um lugar intocável pelos mortais. Embora exista fisicamente na Tessália, o Olimpo mitológico era uma dimensão divina, cercada por nuvens douradas e eterna luminosidade. Lá, os deuses governavam os destinos dos mortais e do mundo com poder absoluto.",
+    "detalhes": "O Monte Olimpo não era apenas uma montanha, mas um símbolo de poder, glória e distância entre deuses e mortais. Situado acima das nuvens, em um céu eterno, ele era invisível e inacessível aos humanos. Os deuses que viviam lá não envelheciam, não morriam e se alimentavam de néctar e ambrosia, fontes de sua imortalidade."
   },
 
   
