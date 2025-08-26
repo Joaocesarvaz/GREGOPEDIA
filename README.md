@@ -35,6 +35,8 @@ __________________________________________Júlia Marília_______________________
 
 06/07/2025 e 08/07/2025 - Montagem da pagina inicial no canva e começo da montagem do layout das demais paginas também no canva.
 
+25/08/2025 - Fiz o json inteiro dos Deuses e também dos livros.
+
 
 Comentários:
 
