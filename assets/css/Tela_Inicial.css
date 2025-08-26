@@ -15,6 +15,13 @@ body {
   font-family: 'Passero One', cursive;
   background-color: #0d0d0d;
   color: white;
+
+
+  background: linear-gradient(45deg, #00ffee, #04836e, #ff8a00, #00ffee);
+    background-size: 400% 400%;
+    animation: bordaBrilhanteResumo 6s ease infinite;
+    background-attachment: fixed;
+
 }
 
 
@@ -54,9 +61,7 @@ h2.texto {
     bottom: -4px;
     z-index: -1;
     border-radius: 24px;
-    background: linear-gradient(45deg, #00ffee, #04836e, #ff8a00, #00ffee);
-    background-size: 400% 400%;
-    animation: bordaBrilhanteResumo 6s ease infinite;
+    
 }
 
 
@@ -92,7 +97,6 @@ h2.texto {
 .botao:hover {
     transform: scale(1.08);
     color: #fff;
-    background: linear-gradient(135deg, #92701a, #bda863);
     box-shadow: 0 0 25px #ffd966;
     text-shadow: #0d0d0d;
 }
@@ -174,18 +178,23 @@ h2.texto {
 
 
 footer {
-   footer {
-    background-color: #111;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    max-width: 900px;
     text-align: center;
-    padding: 15px 20px;
-    font-size: 14px;
     color: #bda863;
     font-family: "Playfair Display", serif;
-    max-width: 900px;
-    margin: 0 auto;
-    border-top: 3px solid #5e5e5e;
-    border-radius: 0 0 10px 10px;
-}
+    background-color: #000000;
+    font-size: 14px;
+    border-top: 5px solid #bda863;
+    padding: 15px 20px 15px 20px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0px 0px 10px 10px;
+    width: 100%;
 }
 
 footer::selection {

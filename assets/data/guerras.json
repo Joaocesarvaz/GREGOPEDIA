@@ -1,19 +1,32 @@
 [
   {
-    "nome": "Zeus",
-    "imagem": "../assets/img/zeus.png.webp",
-    "descricaoCurta": "Deus do céu e líder dos deuses do Olimpo.",
-    "historia": "Zeus é o deus supremo da mitologia grega...",
-    "detalhes": "Liderou a guerra contra os Titãs e governa o Monte Olimpo."
+    "nome": "Titanomaquia",
+    "imagem": "../assets/img/titanomaquia.jpg",
+    "descricaoCurta": "Guerra entre os deuses olímpicos e os titãs primordiais.",
+    "historia": "A Titanomaquia foi uma batalha épica que marcou a ascensão dos deuses olímpicos ao poder. Os Titãs, liderados por Cronos, governavam o cosmos antes da revolta de Zeus. Cronos havia devorado seus filhos para evitar que o destronassem, mas Zeus foi escondido e criado em segredo. Quando adulto, ele liderou seus irmãos libertos para enfrentar os Titãs, numa guerra de dez anos que sacudiu o céu, a terra e o mar. Os Titãs usavam força bruta e magia primordial, mas Zeus e seus aliados tinham a ajuda dos ciclopes e hecatônquiros — seres monstruosos com força e poder devastadores. Com as armas forjadas pelos ciclopes (o raio, tridente e capacete da invisibilidade), Zeus e seus irmãos venceram, aprisionando os Titãs no Tártaro, um abismo profundo e sombrio, garantindo a ordem do universo e estabelecendo a nova era dos deuses olímpicos.",
+    "detalhes": "Os olímpicos venceram com a ajuda dos Hecatônquiros e Ciclopes, que forjaram as armas divinas: o raio para Zeus, o tridente para Poseidon e o capacete da invisibilidade para Hades. Os Titãs derrotados foram aprisionados no Tártaro, guardados pelos Hecatônquiros."
   },
   {
-    "nome": "Hera",
-    "imagem": "../assets/img/images.jfif",
-    "descricaoCurta": "Deusa do casamento e rainha do Olimpo.",
-    "historia": "Hera é a esposa de Zeus e protetora do casamento e das mulheres.",
-    "detalhes": "É conhecida por seu ciúme e sua força."
+    "nome": "Gigantomaquia",
+    "imagem": "../assets/img/gigantomaquia.jpg",
+    "descricaoCurta": "Conflito entre os deuses do Olimpo e os Gigantes filhos de Gaia.",
+    "historia": "A Gigantomaquia ocorreu pouco depois da Titanomaquia e foi outra batalha crucial pelo domínio do cosmos. Gaia, enfurecida pelo aprisionamento dos Titãs, deu à luz os Gigantes, seres de enorme força e tamanho descomunal, com o objetivo de destruir os deuses olímpicos e restaurar o poder de seus filhos. Os Gigantes desceram à terra em uma fúria cega, atacando o Olimpo e os reinos humanos. No entanto, os deuses receberam ajuda de um herói mortal, Hércules, que foi fundamental na luta. Cada deus combateu um gigante, e juntos, com astúcia e força, conseguiram subjugar seus inimigos. Atena derrotou Encélado esmagando-o com a Sicília, e Dionísio usou sua influência sobre a natureza para enfraquecer os adversários. Essa guerra simboliza a luta constante entre ordem e caos na mitologia grega.",
+    "detalhes": "A Gigantomaquia teve batalhas lendárias: Atena esmagou Encélado com a ilha da Sicília, Dionísio lutou contra Eurytos, e Hércules foi essencial para derrotar Alciônio. A vitória dos deuses reafirmou seu domínio absoluto sobre o cosmos."
   },
-
+  {
+    "nome": "Guerra de Troia",
+    "imagem": "../assets/img/troia.jpg",
+    "descricaoCurta": "Conflito lendário entre gregos e troianos, provocado pelo rapto de Helena.",
+    "historia": "A Guerra de Troia teve início quando Páris, príncipe troiano, raptou Helena de Esparta, esposa de Menelau. Os gregos, liderados por Agamenon, reuniram uma coalizão de heróis lendários, como Aquiles, Odisseu, Ájax e Pátroclo, e partiram para sitiar Troia por dez longos anos. A guerra foi marcada por intensos combates, duelos heroicos, e a constante intervenção dos deuses, que tomavam partido de ambos os lados. O ponto alto do conflito inclui a ira de Aquiles, a morte de Heitor — príncipe e maior guerreiro troiano — e a estratégia final de Odisseu com o famoso Cavalo de Troia, um ardil que levou à queda da cidade. A guerra representa temas de honra, destino, tragédia e a relação entre mortais e divindades.",
+    "detalhes": "Entre os episódios mais marcantes estão a fúria de Aquiles, a morte de Heitor, e a criação do Cavalo de Troia por Odisseu. A guerra foi encerrada com a destruição de Troia. Os eventos estão descritos na Ilíada e na Odisseia, de Homero."
+  },
+  {
+    "nome": "Guerra dos Sete Contra Tebas",
+    "imagem": "../assets/img/tebas.jpg",
+    "descricaoCurta": "Conflito entre dois irmãos pelo trono da cidade de Tebas.",
+    "historia": "Esta guerra foi um conflito trágico e familiar pela posse do trono de Tebas, envolvendo os irmãos Etéocles e Polinices, filhos do rei Édipo. Após uma maldição lançada sobre a família, Etéocles recusou-se a dividir o poder com Polinices, que então reuniu um exército de sete líderes guerreiros para atacar Tebas e reivindicar o trono. Cada guerreiro foi designado para atacar um dos portões da cidade, resultando em batalhas sangrentas e muitas mortes. A guerra terminou com a morte dos dois irmãos, selando a tragédia familiar. A história é repleta de temas como destino inevitável, honra, lealdade e o preço do poder.",
+    "detalhes": "Foi uma guerra marcada por tragédias familiares e profecias. Cada portão de Tebas foi defendido por um guerreiro tebano contra um dos invasores. Inspirou peças trágicas como 'Os Sete Contra Tebas', de Ésquilo."
+  }
   
 
 
@@ -36,8 +49,4 @@
     "historia": "É autista mas finge ser retardado",
     "detalhes": "Tudo brincadeirinha"
   }
-
-
-
-
 ]
