@@ -3,18 +3,108 @@
     "nome": "Zeus",
     "imagem": "../assets/img/zeus.png.webp",
     "descricaoCurta": "Deus do céu e líder dos deuses do Olimpo.",
-    "historia": "Zeus é o deus supremo da mitologia grega...",
+    "historia": "Zeus foi o último filho de Cronos e Reia. Para evitar que Cronos o devorasse, Reia contou com a ajuda de Gaia e Urano: escondeu o bebê em Creta, onde foi cuidado pelas ninfas Adrasteia e Ida e nutrido pela cabra Amaltheia, enquanto os Curetes batiam seus escudos para abafar o choro da criança. No lugar de Zeus, Reia deu a Cronos uma pedra enrolada em panos, que ele engoliu sem perceber. Quando adulto, Zeus retornou, obrigou Cronos a regurgitar os irmãos engolidos e liderou a guerra contra os Titãs, tornando-se o soberano dos deuses do Olimpo.",
     "detalhes": "Liderou a guerra contra os Titãs e governa o Monte Olimpo."
   },
   {
     "nome": "Hera",
     "imagem": "../assets/img/deuses/hera.png",
     "descricaoCurta": "Deusa do casamento e rainha do Olimpo.",
-    "historia": "Hera é a esposa de Zeus e protetora do casamento e das mulheres.",
+    "historia": "Hera é filha dos titãs Cronos e Reia e foi engolida por seu pai logo após o nascimento, sendo depois libertada por Zeus quando este forçou Cronos a vomitar seus irmãos. Algumas tradições afirmam que Hera, já grandiosa, foi criada por ninfas como Tétis ou filhas de Asterion. Um mito famoso envolvendo Hera é o “Leite de Hera”: quando Heracles era bebê, foi colocado por Zeus ou Hermes no seio de Hera enquanto ela dormia; ao acordar, afasta o bebê, fazendo com que seu leite espirre e forme a Via Láctea.",
     "detalhes": "É conhecida por seu ciúme e sua força."
   },
-
-
+  {
+    "nome": "Afrodite",
+    "imagem": "../assets/img/deuses/afrodite.png",
+    "descricaoCurta": "Deusa do amor, da beleza, da sexualidade.",
+    "historia": "Afrodite nasceu da espuma do mar que se formou quando Cronos castrou Urano e arremessou seus genitais ao oceano; dessa espuma imortal emergiu a deusa da beleza, do amor e do desejo, flutuando sobre uma concha de vieira. Um mito clássico envolvendo Afrodite é o julgamento de Páris: ela prometeu ao príncipe troiano o amor da mulher mais bela do mundo (Helena) em troca de ser considerada a mais bela, o que desencadeou a Guerra de Troia — um exemplo poderoso do papel de Afrodite na transmissão do amor, desejo e consequências dramáticas.",
+    "detalhes": "Era casada com Hefesto, o deus do fogo, porém teve múltiplos casos com outros Deuses."
+  },
+    {
+    "nome": "Apollo",
+    "imagem": "../assets/img/deuses/apolo.png",
+    "descricaoCurta": "Deus do Sol, da música, da poesia, das artes, da profecia e da cura",
+    "historia": "Apolo é filho dos deuses Zeus e Leto, sendo irmão gêmeo de Ártemis. Sua mãe, Leto, foi perseguida por Hera e só encontrou refúgio na ilha flutuante de Delos, onde, com a ajuda de deusas como Íris e Ilícia, deu à luz a Apolo após um difícil parto de nove dias e nove noites. Um feito famoso de Apolo é o mito de Apolo e Dafne: após ser atingido por flechas de Eros — uma de amor para ele, e uma de repulsa para Dafne — Apolo perseguiu Dafne até que ela pediu ajuda e foi transformada em um loureiro, o qual Apolo adotou como seu símbolo eterno.",
+    "detalhes": " Apolo e Ártemis mataram os filhos de Níobe, que se gabava da sua superioridade sobre eles."
+  },
+      {
+    "nome": "Ares",
+    "imagem": "../assets/img/deuses/ares.png",
+    "descricaoCurta": "Deus da guerra e da violência.",
+    "historia": "Ares é filho de Zeus e Hera. Diferente de outros deuses olímpicos, não há relatos de uma narrativa mirabolante em torno de seu nascimento. Ele aparece simplesmente como fruto da união dos dois deuses, embora algumas versões digam que Hera o teria concebido sozinha, em vingança por Zeus ter gerado Atena sem ela.",
+    "detalhes": " Ele era conhecido por sua brutalidade, selvageria e prazer na carnificina."
+  },
+        {
+    "nome": "Artemis",
+    "imagem": "../assets/img/deuses/artemis.jpg",
+    "descricaoCurta": "Deusa da caça, da vida selvagem, da lua, da virginidade e do parto",
+    "historia": "Ártemis, deusa da caça, da virgindade e protetora das jovens, é filha de Zeus e Leto e irmã gêmea de Apolo. Por causa da perseguição de Hera, Leto só conseguiu dar à luz em Delos, uma ilha flutuante, sendo Ártemis geralmente retratada como nascendo primeiro e ajudando sua mãe depois a dar à luz Apolo. Um mito famoso envolvendo Ártemis é sua relação com Órion: em algumas versões, por brincadeira ou ciúmes entre deuses, Ártemis ou Apolo causaram a morte de Órion com um escorpião; depois, Ártemis ou Zeus transformaram-no em constelação, eternizando sua história nas estrelas.",
+    "detalhes": " Pediu ao pai, Zeus, para permanecer virgem para sempre, tornando-se também a protetora das moças solteiras e da deusa do parto. "
+  },
+        {
+    "nome": "Atena",
+    "imagem": "../assets/img/deuses/atena.png",
+    "descricaoCurta": "Deusa da sabedoria, da estratégia em batalha, das artes, da justiça e da habilidade.",
+    "historia": "Atena é uma das deusas com origem mais singular da mitologia grega. Quando Zeus soube que sua primeira esposa, Métis, daria à luz uma criança mais poderosa que o pai, decidiu engoli-la. Mais tarde, Zeus sentiu uma dor de cabeça terrível. Hefesto (ou Prometeu, em algumas versões) abriu sua cabeça com um machado, e de dentro surgiu Atena, já adulta, armada e com um grito de guerra. Esse nascimento fez dela a deusa da sabedoria, da estratégia militar e protetora de cidades como Atenas.",
+    "detalhes": "É considerada a protetora de heróis como Perseu e Aquiles, e foi a responsável pela criação de diversas invenções."
+  },
+        {
+    "nome": "Deméter",
+    "imagem": "../assets/img/deuses/demeter.png",
+    "descricaoCurta": "Deusa da agricultura, colheita, terra cultivada e do ciclo das estações.",
+    "historia": "Deméter é filha de Cronos e Reia, e assim como seus irmãos, foi engolida pelo pai ao nascer e libertada quando Zeus o derrotou. Como deusa da agricultura, ela é responsável pelo crescimento das plantações, pelo ciclo das estações e pela fertilidade da terra. O mito mais famoso de Deméter é o rapto de Perséfone. Hades sequestrou sua filha para torná-la rainha do Submundo. Em luto, Deméter fez a terra se tornar estéril, e os homens quase pereceram de fome.",
+    "detalhes": "Através das viagens com Dionísio, Deméter ensinou os homens a cuidar da terra e das plantações. "
+  },
+        {
+    "nome": "Dionísio",
+    "imagem": "../assets/img/deuses/dionisio.png",
+    "descricaoCurta": "Deus do vinho, das festas, do teatro e da fertilidade.",
+    "historia": "Dionísio é um dos deuses com nascimento mais enigmático da mitologia grega. A versão mais conhecida diz que ele é filho de Zeus e da mortal Sêmele. Enganada por Hera, Sêmele pediu que Zeus aparecesse em sua forma verdadeira. O brilho divino a incinerou, mas Zeus salvou o feto, costurando-o em sua coxa até que estivesse pronto para nascer. Por isso Dionísio é chamado de “duas vezes nascido”. Já uma versão órfica narra que Dionísio era, na verdade, Zagreu, filho de Zeus e Perséfone, devorado pelos Titãs a mando de Hera. Zeus resgatou seu coração e o implantou em Sêmele, gerando assim a segunda vida do deus.",
+    "detalhes": "Sua infância envolveu esconderijos de Hera, a esposa ciumenta de Zeus, sendo cuidado por Hermes ou ninfas. "
+  },
+        {
+    "nome": "Hades",
+    "imagem": "../assets/img/deuses/hades.png",
+    "descricaoCurta": "Deus do mundo inferior e dos mortos",
+    "historia": "Hades é filho de Cronos e Reia, irmão de Zeus e Posídon. Como os demais, foi engolido pelo pai ao nascer e libertado por Zeus. Após a Titanomaquia, os três irmãos sortearam o cosmos: Zeus ficou com o céu, Posídon com o mar e Hades com o mundo dos mortos, passando a reinar no Submundo. O mito mais importante envolvendo Hades é justamente o rapto de Perséfone. Encantado pela filha de Deméter, ele a levou para ser sua esposa.",
+    "detalhes": "É uma figura temida, porém justa e imparcial, responsável por manter o equilíbrio entre o mundo dos vivos e dos mortos. "
+  },
+        {
+    "nome": "Hecate",
+    "imagem": "../assets/img/deuses/hecate.png",
+    "descricaoCurta": "Deusa da magia, bruxaria, noite, lua, fantasmas, necromancia, portais e encruzilhadas.",
+    "historia": "Hécate tem origem mais antiga que os próprios deuses olímpicos. Ela é filha dos titãs Perses e Astéria, associada à noite, à lua e à magia. Diferente de outros titãs, Hécate foi honrada por Zeus após a Titanomaquia e manteve poder sobre céu, terra e mar. Tornou-se uma divindade ligada à feitiçaria, aos fantasmas e às encruzilhadas, locais considerados sagrados para sua adoração. Durante o rapto de Perséfone, Hécate foi uma das primeiras a ouvir os gritos da jovem e, depois, tornou-se sua guia no Submundo. Por isso, é vista como mediadora entre vivos e mortos e cultuada com tochas nas noites escuras.",
+    "detalhes": "É uma figura liminar que transitava entre o mundo dos vivos e o submundo."
+  },
+        {
+    "nome": "Hefesto",
+    "imagem": "../assets/img/deuses/hefesto.png",
+    "descricaoCurta": "Deus da metalurgia, do fogo, dos ferreiros, dos artesãos e dos vulcões.",
+    "historia": "Hefesto tem duas versões de nascimento. Em uma, ele é filho de Zeus e Hera. Em outra, Hera o teria concebido sozinha, por vingança, após Zeus gerar Atena sem ela. Ao nascer, Hefesto era deformado e manco, o que levou Hera a rejeitá-lo e atirá-lo do Olimpo. Sobreviveu e, criado por Tétis e Eurínome, aprendeu a arte da forja e do fogo.",
+    "detalhes": "É o ferreiro dos deuses, fabricando armas e objetos mágicos a partir de suas forjas."
+  },
+        {
+    "nome": "Hermes",
+    "imagem": "../assets/img/deuses/hermes.png",
+    "descricaoCurta": "Deus dos viajantes, ladrões e do comércio.",
+    "historia": "Hermes nasceu no Monte Cilene, na Arcádia, filho de Zeus e da ninfa Maia. Desde bebê mostrou sua astúcia: ainda no primeiro dia de vida, saiu do berço, roubou o rebanho sagrado de Apolo e, para disfarçar, inventou a lira, feita de casco de tartaruga e tripas de boi. Quando Apolo o encontrou, Zeus interveio e, em vez de puni-lo, reconheceu seu talento e o tornou mensageiro dos deuses, protetor dos viajantes, comerciantes e ladrões. O mito de Hermes e Apolo mostra sua esperteza: ao ser descoberto como ladrão do gado, Hermes ofereceu a lira como presente ao irmão, que ficou tão encantado que aceitou a troca. Esse episódio marcou Hermes como um deus travesso, mas também engenhoso e conciliador.",
+    "detalhes": "Conhecido pela sua astúcia, velocidade e oratória."
+  },
+  {
+    "nome": "Hestia",
+    "imagem": "../assets/img/deuses/hestia.jpg",
+    "descricaoCurta": "Deusa grega do lar, da lareira e da hospitalidade.",
+    "historia": "Era filha dos titãs Cronos e Reia, e irmã mais velha de Zeus. ",
+    "detalhes": "Recusou os deuses Apolo e Poseidon, jurando permanecer virgem, o que lhe concedeu honras especiais. "
+  },
+        {
+    "nome": "Poseidon",
+    "imagem": "../assets/img/deuses/poseidon.png",
+    "descricaoCurta": "Deus dos mares, tempestades e terremotos.",
+    "historia": "Poseidon nasceu como filho dos titãs Cronos e Reia, mas foi engolido por Cronos logo após seu nascimento. Posteriormente, Zeus forçou Cronos a regurgitar Poseidon e seus irmãos, após o que a Titanomaquia ocorreu e os deuses triunfaram sobre os titãs. Então, Poseidon recebeu os mares como seu domínio, tornando-se deus das águas, terremotos e cavalos. Um mito famoso é sua disputa com Atena pelo patronato da cidade de Atenas: Poseidon ofereceu uma fonte de água salgada (ou um cavalo em algumas versões), enquanto Atena ofereceu a oliveira, e os atenienses escolheram o presente dela, tornando Atena a protetora da cidade",
+    "detalhes": "Conhecido pelo seu temperamento imprevisível, o que reflete a natureza do oceano"
+  },
+ 
 
 
 

@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  fetch('../assets/data/guerras.json')
+  fetch('../assets/data/reinos.json')
     .then(res => {
       if (!res.ok) throw new Error('Erro ao carregar o JSON');
       return res.json();
