@@ -20,10 +20,6 @@ ______________________________________________Letícia__________________________
 
 05/07/2025 - modificações e adições em algumas partes do css, adicionei mais uma categoria no html. algumas pesquisas de informações para adicionar no JSON, falta o JS
 
-
-detalhe: a tela inicial está dentro do pages
-
-
 06/07/2025 - coloquei 2 exemplos em todos os json. adicionei alguns selections e uns anjos meio transparentes indo de cima para baixo na tela inicial para deixar mais bonitinho
 
 24/07/2025 - adicionei outro index para uma nova tela inicial(como sugerida na aula do dia 16), junto do JS(foi utilizado ajuda e dicas) e de uma estilização basica 
@@ -43,3 +39,8 @@ Comentários:
 No Json, lembre-se que o última chaves não pode ter virgula mas os outros tem que ter se nao dá erro, o mesmo pro ultipo item, nesse caso detalhes, ele nunca pode ter virgula, mas os outros tem que devem ter.
 
 na tela inicial falta ter mais vida nela, ela ainda ta feinha, mas se nao mexerem nela, planejo arrumar no final de semana e adicionar a transição
+
+
+
+
+detalhe: a tela inicial está dentro do pages
