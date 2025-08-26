@@ -31,9 +31,16 @@ __________________________________________Júlia Marília_______________________
 
 06/07/2025 e 08/07/2025 - Montagem da pagina inicial no canva e começo da montagem do layout das demais paginas também no canva.
 
+25/08/2025 - Fiz o json inteiro dos Deuses e também dos livros.
+
 
 Comentários:
 
 No Json, lembre-se que o última chaves não pode ter virgula mas os outros tem que ter se nao dá erro, o mesmo pro ultipo item, nesse caso detalhes, ele nunca pode ter virgula, mas os outros tem que devem ter.
 
 na tela inicial falta ter mais vida nela, ela ainda ta feinha, mas se nao mexerem nela, planejo arrumar no final de semana e adicionar a transição
+
+
+
+
+detalhe: a tela inicial está dentro do pages
