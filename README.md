@@ -20,6 +20,10 @@ ______________________________________________Letícia__________________________
 
 05/07/2025 - modificações e adições em algumas partes do css, adicionei mais uma categoria no html. algumas pesquisas de informações para adicionar no JSON, falta o JS
 
+
+detalhe: a tela inicial está dentro do pages
+
+
 06/07/2025 - coloquei 2 exemplos em todos os json. adicionei alguns selections e uns anjos meio transparentes indo de cima para baixo na tela inicial para deixar mais bonitinho
 
 24/07/2025 - adicionei outro index para uma nova tela inicial(como sugerida na aula do dia 16), junto do JS(foi utilizado ajuda e dicas) e de uma estilização basica 
