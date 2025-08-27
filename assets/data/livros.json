@@ -2,35 +2,35 @@
   {
     "nome": "A Odisseia",
     "imagem": "../assets/img/odisseia.jpg",
-    "descricaoCurta": "é um poema épico que narra a longa e perigosa jornada de volta para casa do herói grego Odisseu",
+    "descricaoCurta": "É um poema épico que narra a longa e perigosa jornada de volta para casa do herói grego Odisseu",
     "historia": "Odisseu enfrenta diversos desafios e monstros no caminho de volta para a ilha de Ítaca, onde sua esposa Penélope e seu filho Telêmaco aguardam seu retorno. Entre seus obstáculos estão o ciclopes Polifemo, as sedutoras Sereias, a feiticeira Circe e o estreito perigoso entre Scylla e Caríbdis. Enquanto isso, em Ítaca, Penélope enfrenta pretendentes que querem tomar a casa e o trono de Odisseu.",
     "detalhes": ""
   },
   {
     "nome": "A Illiada",
     "imagem": "../assets/img/illiada.webp",
-    "descricaoCurta": "é um poema épico que narra os eventos de algumas semanas durante o décimo ano da Guerra de Troia",
+    "descricaoCurta": "É um poema épico que narra os eventos de algumas semanas durante o décimo ano da Guerra de Troia",
     "historia": "A trama principal gira em torno da ira do herói grego Aquiles. Depois de uma disputa com Agamenon, líder dos gregos, Aquiles se recusa a lutar, o que causa grandes perdas para seu exército. A narrativa cobre batalhas intensas, feitos heroicos, conflitos pessoais, e tragédias, como a morte de Pátroclo, amigo querido de Aquiles",
-    "detalhes": "nesse caso, aqui ficaria o link do livro blz"
+    "detalhes": "Nesse caso, aqui ficaria o link do livro blz"
   },
   {
     "nome": "O silencio das garotas",
     "imagem": "../assets/img/titans/garotas.jpg",
-    "descricaoCurta": " um reconto sobre a Guerra de Troia pelos olhos de Briseida e das mulheres escravizadas  ",
+    "descricaoCurta": " Um reconto sobre a Guerra de Troia pelos olhos de Briseida e das mulheres escravizadas  ",
     "historia": " O Silêncio das Garotas, de Pat Barker, é uma releitura poderosa da Ilíada de Homero, narrada a partir da perspectiva feminina, em especial de Briseida, a jovem rainha de Lirneso que foi feita prisioneira de guerra e entregue como escrava a Aquiles. No épico original, as vozes das mulheres quase não aparecem, mas Barker dá vida e profundidade a essas figuras esquecidas, mostrando o sofrimento, a resiliência e a humanidade das cativas diante da brutalidade da guerra de Troia. A obra expõe a dor da perda, a violência da escravidão e a silenciada experiência feminina, sem deixar de lado a complexidade dos grandes heróis, como Aquiles e Pátroclo, que surgem sob um olhar mais íntimo e humano. É uma história sobre poder e sobrevivência, mas também sobre a memória das mulheres que, mesmo silenciadas pelos poetas, tiveram papel essencial em um dos maiores mitos da humanidade. ",
     "detalhes":""
 },
   {
     "nome": "the song of achilles",
     "imagem": "../assets/img/book the song of achilles.jpg",
-    "descricaoCurta": "uma releitura da Ilíada narrada pela visão de Pátroclo, companheiro e amante de Aquiles",
+    "descricaoCurta": "Uma releitura da Ilíada narrada pela visão de Pátroclo, companheiro e amante de Aquiles",
     "historia": "Pátroclo, príncipe exilado após um acidente fatal, cresce no reino de Peleu, onde conhece Aquiles, filho do rei e da deusa Tétis. Diferentes em tudo, eles se tornam inseparáveis e, sob a tutela do centauro Quíron, sua amizade floresce em amor. Quando Helena é raptada e os reis gregos marcham contra Troia, Aquiles escolhe atender à profecia que lhe promete glória eterna, mesmo ao custo de uma vida breve. Pátroclo o acompanha, movido por lealdade e paixão, e juntos enfrentam os anos da guerra. Durante o cerco, Aquiles rompe com Agamenon e recusa-se a lutar, mas Pátroclo, desesperado pelos massacres, veste sua armadura e lidera os mirmidões, sendo morto por Heitor. Tomado pela dor, Aquiles retorna ao combate, vinga o amado matando Heitor e é morto pouco depois por Páris, cumprindo seu destino. Do além, Pátroclo narra sua espera até que Tétis, antes hostil, aceita sua memória ao lado de Aquiles, permitindo que seus nomes sejam unidos na mesma tumba e que seu amor encontre a eternidade.",
     "detalhes": ""
   },
   {
     "nome": "Circe",
     "imagem": "../assets/img/circe book.jpeg",
-    "descricaoCurta": "uma releitura da mitologia grega narrada pela deusa-feiticeira, filha de Hélio",
+    "descricaoCurta": "Uma releitura da mitologia grega narrada pela deusa-feiticeira, filha de Hélio",
     "historia": "Circe é filha do titã Hélio e da ninfa Perse, mas desde cedo é vista como fraca e estranha entre os deuses. Sua voz soa humana e seus poderes não se manifestam como os da família divina. Isolada, ela descobre por conta própria a feitiçaria, magia que não depende da força natural dos deuses, mas da vontade e do aprendizado. Quando usa esse poder para transformar uma rival em monstro, os deuses se assustam e a condenam ao exílio na ilha de Aiaia. Na solidão, Circe se aperfeiçoa, criando feitiços, domando feras e enfrentando deuses que cruzam seu caminho. Em sua ilha passam personagens míticos como Hermes, Dédalo, Medeia e, principalmente, Odisseu, com quem vive um romance e tem um filho, Telégono. Ao longo dos anos, ela encara deuses vingativos, monstros e até sua própria família, mas também descobre sua força e sua autonomia. No fim, cansada da imortalidade e em busca de um sentido verdadeiro, Circe escolhe o destino dos mortais: viver e morrer como humana, encerrando sua jornada como protagonista da própria história.",
     "detalhes": " "
   },
