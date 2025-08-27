@@ -13,7 +13,41 @@
     "historia": "Acrísio, rei de Argos, era casado com Eurídice, filha de Lacedemon, e tinha uma filha, Dânae, mas não tinha filhos homens. Quando Acrísio perguntou ao oráculo como a filha dele poderia ter filhos homens, a resposta foi que Dânae teria um filho que o mataria.Dânae foi trancada em uma câmara de bronze subterrânea e posta sob guarda, mas ela foi seduzida, segundo alguns autores, por Preto, irmão e rival de Acrísio, ou por Zeus, que assumiu a forma de uma chuva de ouro. Lactâncio, autor cristão que viveu por volta do ano 300, influenciado pelo evemerismo, diz que esta chuva de ouro  foi, na verdade, uma larga soma em dinheiro que o rei imortal Zeus despejou sobre o colo de Dânae, para compensar a  desonra que ele lhe fez, e que os poetas posteriores adotaram a chuva de ouro como figura de expressão, assim como chuva de ferro se refere a uma grande quantidade de dardos e flechas. Acrísio, não acreditando que sua filha estivesse grávida de Zeus, colocou-a em um baú, que foi jogado ao mar. O cesto chegou à ilha de Sérifos, onde foi encontrado por Díctis, que criou o menino.",
     "detalhes": ""
   },
-
+  {
+    "nome": "Hércules",
+    "imagem": "../assets/img/titans/hercules.avif",
+    "descricaoCurta": "Maior herói da Grécia; símbolo da força e da superação.",
+    "historia": "Filho de Zeus e da mortal Alcmena. Desde bebê já mostrou força ao estrangular duas serpentes enviadas por Hera, que o odiava por ser fruto de uma traição de Zeus. Em um acesso de loucura provocado por Hera, matou sua esposa e filhos, sendo obrigado a cumprir os 12 trabalhos como penitência, entre eles matar o Leão de Nemeia e capturar o Javali de Erimanto. Após a morte, foi divinizado e aceito no Olimpo. Patrono da força física e da coragem, tornou-se imortal ao casar-se com Hebe, deusa da juventude.",
+    "detalhes": " "
+  },
+    {
+    "nome": "Sarpédon",
+    "imagem": "../assets/img/titans/sarpedon.jpg",
+    "descricaoCurta": "Príncipe troiano, símbolo da bravura e do destino inevitável.",
+    "historia": "Filho de Zeus (com Laodâmia ou Europa, segundo versões). Foi aliado dos troianos na Guerra de Troia, comandando os lícios. Morreu em batalha contra Pátroclo, amigo de Aquiles. Zeus, embora seu pai, não pôde salvá-lo por causa do destino decretado pelas Moiras. Após sua morte, Apolo levou seu corpo de volta a Lícia para ser honrado. Representa o conflito entre amor paterno e o poder imutável do destino.",
+    "detalhes":" "
+  },
+    {
+    "nome": "Jasão",
+    "imagem": "../assets/img/titans/jasao.webp",
+    "descricaoCurta": "Herói e líder dos Argonautas; símbolo da busca e da aventura.",
+    "historia": "Filho de Aeson, rei de Iolco. Para retomar o trono usurpado por seu tio Pélias, recebeu a missão de conquistar o Velocino de Ouro. Reuniu um grupo de heróis, os Argonautas, e partiu em uma longa viagem. Com a ajuda da feiticeira Medeia, que se apaixonou por ele, conseguiu cumprir os desafios e conquistar o velocino. Teve descendência com Medeia, mas a traiu, levando à tragédia em que Medeia matou os filhos de ambos. A viagem dos Argonautas foi uma das maiores epopeias da mitologia grega.",
+    "detalhes":" "
+  },
+    {
+    "nome": "Pólux (Polydeuces)",
+    "imagem": "../assets/img/titans/polux.jpg",
+    "descricaoCurta": "Herói grego, gêmeo de Castor; símbolo da fraternidade e da imortalidade.",
+    "historia": "Filho de Zeus e da mortal Leda, rainha de Esparta. Seu irmão gêmeo, Castor, era mortal, pois era filho apenas de Leda e Tíndaro. Juntos, ficaram conhecidos como os Dióscuros, protetores dos marinheiros e guerreiros habilidosos. Quando Castor foi morto, Pólux implorou a Zeus para não ser separado do irmão, e os dois foram transformados na constelação de Gêmeos. Sua história simboliza a lealdade fraterna e o sacrifício.",
+    "detalhes":""
+},
+  {
+    "nome": "Helen",
+    "imagem": "../assets/img/helen.jpg",
+    "descricaoCurta": "Helen de Esparta, A Mulher Mais Bela do Mundo",
+    "historia": "Helen de Esparta, filha de Zeus e Leda, é uma das figuras mais icônicas da mitologia grega, famosa por sua beleza incomparável. Casada com Menelau, rei de Esparta, sua vida mudou para sempre quando Páris, príncipe de Troia, chegou à cidade. Antes disso, Odisséu havia ajudado Menelau a estabelecer um acordo com os outros pretendentes de Helen: todos prometeram defender o casamento e proteger Helen, garantindo que ninguém pudesse tomá-la sem enfrentar a resistência conjunta. Mesmo assim, segundo o mito, o rapto de Helen por Páris não foi um simples romance: há versões em que ela foi levada à força ou manipulada pelos deuses, especialmente Afrodite, que prometeu a Páris o amor da mulher mais bela do mundo. Assim, Helen se tornou involuntariamente o epicentro de uma tragédia, marcada pelo conflito entre desejo divino e vontade humana. O rapto de Helen desencadeou a lendária Guerra de Troia, durando dez anos e envolvendo heróis como Aquiles, Ulisses e Heitor. Durante esse período, Helen viveu dividida entre o arrependimento e a impotência diante do caos que sua presença provocava. Ao final da guerra, algumas versões contam que ela retornou a Esparta com Menelau, recebendo perdão e vivendo o restante de seus dias em relativa paz, ainda que marcada pelo peso de seu destino. A história de Helen permanece como um exemplo clássico de como a beleza e o destino, sob os desígnios dos deuses, podem transformar uma vida em mito e tragédia.",
+"detalhes":""
+},
   
 
 

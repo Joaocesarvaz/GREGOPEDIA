@@ -13,7 +13,37 @@
     "historia": "ela era uma ninfa marinha de beleza encantadora, filha do deus marinho Fórcis  e da deusa marinha Ceto. Ela era tão bela que atraía olhares de deuses e mortais, vivendo livre e tranquila à beira-mar.Um dos que se apaixonaram por ela foi Glauco, um pescador que se transformou em deus marinho após comer uma erva mágica. Glauco se encantou por Scylla, mas ela rejeitava seu amor constantemente. Desesperado, Glauco procurou a ajuda da feiticeira Circe, famosa por seus encantos e poções. Ele pediu que Circe criasse uma poção para conquistar o coração de Scylla — mas Circe, apaixonada por Glauco, ficou furiosa com o pedido.Consumida pelo ciúme, Circe preparou uma poção maligna e a derramou discretamente na água onde Scylla costumava se banhar. Quando a ninfa entrou na água, sentiu seu corpo se contorcer e transformar: de sua cintura brotaram cães monstruosos com bocas famintas, e seu corpo se encheu de tentáculos e deformidades. Horrorizada ao ver sua própria imagem refletida, Scylla fugiu e se isolou em uma caverna em um penhasco, tornando-se um símbolo vivo doque a inveja e o ódio podem causar.Desde então, Scylla se tornou uma predadora marinha, atacando navios que passavam perto de sua morada. Ela se escondia entre as rochas e, com suas seis cabeças, agarrava marinheiros desprevenidos, devorando-os imediatamente.",
     "detalhes": ""
   },
-
+   {
+    "nome": "Ciclopes",
+    "imagem": "../assets/img/titans/ciclopes.gif",
+    "descricaoCurta": " Gigantes com um único olho no centro da testa, conhecidos por sua força ",
+    "historia": " Os ciclopes eram gigantes de força descomunal, reconhecidos por possuírem apenas um olho no centro da testa. Na mitologia, existem diferentes tipos de ciclopes: alguns, como os filhos de Urano e Gaia, eram artesãos divinos que forjavam as armas dos deuses, incluindo o raio de Zeus, o tridente de Poseidon e o capacete de Hades. Outros, no entanto, eram retratados como seres selvagens e perigosos, vivendo isolados em cavernas. O mais famoso deles é Polifemo, encontrado por Odisseu durante sua jornada. Polifemo aprisionou o herói e seus companheiros, devorando alguns deles, até ser enganado: Odisseu o embebedou, cegou seu único olho e escapou escondido sob o ventre das ovelhas do gigante ",
+    "detalhes":""
+    },                                                                                                                                                                                                                    {
+    "nome": "Hidra",
+    "imagem": "../assets/img/titans/hidra.jpg",
+    "descricaoCurta": " Ser aquático com múltiplas cabeças; quando uma é cortada, duas crescem no lugar.  ",
+    "historia": " A Hidra de Lerna era um monstro aquático com corpo de serpente e várias cabeças, cuja principal característica era a imortalidade de uma delas e a regeneração das demais: para cada cabeça cortada, duas novas nasciam em seu lugar. Essa criatura habitava os pântanos próximos ao lago de Lerna e aterrorizava toda a região com seu hálito venenoso e sangue mortal. Hércules foi o herói encarregado de derrotá-la como parte de seus Doze Trabalhos. A luta, porém, não foi fácil, já que cada golpe parecia apenas fortalecer a Hidra. Com a ajuda de seu sobrinho Iolau, Hércules cauterizou cada pescoço cortado, impedindo que novas cabeças surgissem, até chegar à cabeça imortal, que ele enterrou sob uma rocha pesada. ",
+    "detalhes":""
+    },                                                                                                                                                                                                                     {
+    "nome": "Cérbero",
+    "imagem": "../assets/img/titans/cerbero.jpg",
+    "descricaoCurta": " Cão de três cabeças que guarda a entrada do Hades, impedindo a saída dos mortos. ",
+    "historia": " Cérbero, o cão de três cabeças, era o guardião do submundo, responsável por vigiar os portões do reino de Hades e impedir que os mortos retornassem ao mundo dos vivos. Além de suas três cabeças ferozes, muitas versões da mitologia o descrevem com uma cauda de serpente e um corpo coberto por serpentes venenosas, tornando-o ainda mais aterrorizante. Criatura fiel a Hades, Cérbero raramente era vencido, sendo um obstáculo intransponível para aqueles que ousavam desafiar o domínio da morte. Mesmo assim, alguns heróis lendários conseguiram enfrentá-lo, como Hércules, que, em seu último trabalho, desceu ao submundo para capturá-lo sem usar armas, provando sua força e coragem. ",
+    "detalhes":""
+},                                                                                                                                                                                                                                      {
+    "nome": "sereias",
+    "imagem": "../assets/img/titans/sereias.jpg",
+    "descricaoCurta": " Criaturas metade mulher, metade peixe, que atraíam marinheiros com seu canto. ",
+    "historia": "As sereias gregas eram figuras misteriosas e sedutoras, descritas originalmente como mulheres com corpo de ave e rosto feminino, e só mais tarde passaram a ser representadas como metade mulher e metade peixe. Habitavam ilhas rochosas e traiçoeiras, onde entoavam cantos hipnóticos capazes de atrair marinheiros para a morte. Suas vozes irresistíveis eram uma armadilha: quem as ouvia, perdia a razão e conduzia o navio contra os rochedos. Um dos encontros mais famosos com as sereias ocorreu durante a viagem de Odisseu, narrada na Odisseia de Homero. O herói, consciente do perigo, mandou tapar os ouvidos de sua tripulação com cera e pediu para ser amarrado ao mastro da embarcação, resistindo ao chamado fatal.",
+    "detalhes":""
+},                                                                                                                                                                                                                       {
+    "nome": "Minotarauro",
+    "imagem": "../assets/img/titans/minotauro.webp",
+    "descricaoCurta": "Monstro com corpo humano e cabeça de touro, preso no Labirinto de Creta.",
+    "historia": " Ele nasceu da união amaldiçoada entre Pasífae, esposa do rei Minos de Creta, e um touro branco enviado por Poseidon. Considerado uma abominação, o Minotauro foi trancado no interior do famoso Labirinto, construído pelo arquiteto Dédalo, para que ninguém conseguisse escapar após entrar. Alimentado com jovens sacrificados em nome do rei, o monstro reinava sobre o medo, até que o herói Teseu, auxiliado por Ariadne e seu novelo de fio, conseguiu enfrentar a criatura. Após um combate feroz, Teseu matou o Minotauro, não apenas pondo fim à sua tirania, mas também se consagrando como um dos grandes heróis da Grécia antiga.  ",
+    "detalhes":""   
+  },
 
 
 
