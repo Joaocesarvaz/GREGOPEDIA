@@ -17,7 +17,7 @@ document.getElementById("entrar").addEventListener("click", function () {
       video.pause();
       videocont.classList.add("desaparecido");
       setTimeout(() => {
-        window.location.href = "../pages/index.html";
+        window.location.href = "../pages/Tela_Inicial.html";
       }, 000);
     }
   });
