@@ -13,7 +13,41 @@
     "historia": "O Monte Olimpo é o lar sagrado dos deuses olímpicos, especialmente os doze principais, liderados por Zeus. Após a vitória na Titanomaquia, Zeus e seus irmãos estabeleceram o novo domínio dos deuses no ponto mais alto da Grécia, um lugar intocável pelos mortais. Embora exista fisicamente na Tessália, o Olimpo mitológico era uma dimensão divina, cercada por nuvens douradas e eterna luminosidade. Lá, os deuses governavam os destinos dos mortais e do mundo com poder absoluto.",
     "detalhes": "O Monte Olimpo não era apenas uma montanha, mas um símbolo de poder, glória e distância entre deuses e mortais. Situado acima das nuvens, em um céu eterno, ele era invisível e inacessível aos humanos. Os deuses que viviam lá não envelheciam, não morriam e se alimentavam de néctar e ambrosia, fontes de sua imortalidade."
   },
-
+{
+    "nome": "Troia",
+    "imagem": "../assets/img/titans/troia.webp",
+    "descricaoCurta": "Cidade lendária da Ásia Menor, símbolo de riqueza, orgulho e tragédia.",
+    "historia": "Governada pelo rei Príamo, Troia ficou famosa pela Guerra de Troia. O conflito começou quando o príncipe Páris raptou (ou seduziu) Helena, esposa de Menelau, rei de Esparta. Os gregos (aquéus) sitiaram a cidade por 10 anos. A queda de Troia ocorreu graças ao plano de Odisseu com o Cavalo de Troia, que permitiu a invasão dos gregos.",
+    "detalhes": ""
+  },
+      {
+    "nome": "Ítaca",
+    "imagem": "../assets/img/titans/itaca.webp",
+    "descricaoCurta": "Pequeno reino insular grego, símbolo do lar, da fidelidade e da astúcia.",
+    "historia": "Governado por Odisseu, herói conhecido por sua inteligência. Após lutar em Troia, demorou 10 anos para voltar à sua ilha, em sua jornada narrada na Odisseia. Enfrentou monstros como o Ciclope Polifemo, as Sereias e a fúria de Poseidon. Ítaca simboliza o valor da perseverança, da inteligência e do retorno ao lar.",
+    "detalhes": ""
+  },
+      {
+    "nome": "Esparta",
+    "imagem": "../assets/img/titans/esparta.jpg",
+    "descricaoCurta": "Cidade-Estado grega guerreira, símbolo da disciplina e da obediência.",
+    "historia": "Localizada no Peloponeso, Esparta era uma sociedade rígida, dividida entre guerreiros (espartiatas), periecos (homens livres) e hilotas (servos). Era governada por dois reis e um conselho de anciãos. Esparta aparece na mitologia ligada à figura de Menelau, rei de Esparta e marido de Helena, cuja fuga para Troia causou a guerra. Esparta simboliza não apenas o militarismo, mas também o ponto de origem de um dos maiores conflitos da mitologia grega.",
+    "detalhes": ""
+  },
+      {
+    "nome": "Argos",
+    "imagem": "../assets/img/titans/argos.jpg",
+    "descricaoCurta": "Cidade antiga da Grécia, ligada à realeza e a heróis lendários.",
+    "historia": "Uma das cidades mais velhas do Peloponeso, rival de Esparta, famosa por seus reis e sua ligação com os deuses. Era um centro religioso, especialmente dedicado à deusa Hera. Perseu, herói que matou a Medusa, era natural de Argos e Diomedes, um dos mais valentes guerreiros gregos da Guerra de Troia, também era rei de Argos.",
+    "detalhes": ""
+  },
+        {
+    "nome": "Submundo",
+    "imagem": "../assets/img/titans/submundo.jpg",
+    "descricaoCurta": "Reino dos mortos, governado por Hades, irmão de Zeus e Poseidon.",
+    "historia": "Depois da derrota dos Titãs, o mundo foi dividido entre os três irmãos: Zeus ficou com o céu, Poseidon com o mar, e Hades com o Submundo. Era para lá que iam todas as almas após a morte. O Submundo simboliza tanto o medo da morte quanto a justiça e o equilíbrio cósmico. Guardado por Cérbero, o cão de três cabeças.",
+    "detalhes": ""
+  },
   
 
 
