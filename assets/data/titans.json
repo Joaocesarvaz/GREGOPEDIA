@@ -50,7 +50,55 @@
     "historia": "Céos, conhecido também como Koios, é o Titã associado à inteligência, à sabedoria e ao eixo celestial, sendo considerado uma divindade cósmica ligada ao norte do firmamento. Ele casou-se com sua irmã Febe, com quem gerou Leto e Astéria, ambas importantes figuras na genealogia divina, já que Leto foi a mãe dos deuses Apolo e Ártemis. Embora sua participação direta nos mitos seja limitada, Céos desempenha um papel crucial como ancestral de divindades oraculares, pois sua união com Febe conecta os Titãs ao sagrado Oráculo de Delfos. Durante a Titanomaquia, Céos lutou ao lado de Cronos contra Zeus, mas, após a derrota, foi aprisionado no Tártaro junto aos demais irmãos rebeldes.",
     "detalhes":""
   },
-
+{
+    "nome": "Hipérion",
+    "imagem": "../assets/img/titans/hiperion.jpg",
+    "descricaoCurta": "Titã da luz celestial, muitas vezes associado ao Sol.",
+    "historia": "Filho de Urano e Gaia, casou-se com sua irmã Téia. Foi pai de Hélio (o Sol), Selene (a Lua) e Eos (a Aurora). Representa o brilho e a observação dos céus. Participou da guerra dos Titãs contra os deuses olímpicos (Titanomaquia), sendo derrotado e aprisionado no Tártaro. Hipérion é importante porque, através de seus filhos, estabeleceu os ritmos do sol e da lua, organizando os dias e os meses.",
+    "detalhes": ""
+  },
+     {
+    "nome": "Japeto",
+    "imagem": "../assets/img/titans/japeto.jpg",
+    "descricaoCurta": "Titã da mortalidade e da vida humana.",
+    "historia": "Filho de Urano e Gaia, casou-se com a oceânide Clímene. Pai de Atlas (que sustentou os céus), Prometeu (que deu o fogo à humanidade), Epimeteu (ingênuo e esposo de Pandora) e Menécio (destruído por Zeus). Jápeto simboliza o destino humano, ligado à finitude e à limitação. Na Titanomaquia, ficou ao lado de Cronos e foi aprisionado no Tártaro.",
+    "detalhes": ""
+  },
+     {
+    "nome": "Tétis",
+    "imagem": "../assets/img/titans/tetis.jpg",
+    "descricaoCurta": "Titânide das águas doces e do nutrimento da Terra.",
+    "historia": "Esposa de Oceano, com quem gerou os rios e as 3.000 oceânides (ninfas das águas). Tétis personifica a fertilidade das águas e o ciclo natural da vida. Diferente de outros Titãs, não participou da Titanomaquia e manteve-se neutra, sendo cultuada como mãe das correntes e rios do mundo. Manteve uma posição neutra na guerra entre os Titãs e os deuses olímpicos, mas secretamente apoiou e protegeu a deusa Hera, que lhe foi confiada por sua mãe Reia.",
+    "detalhes": ""
+  },
+     {
+    "nome": "Febe",
+    "imagem": "../assets/img/titans/febe.jpg",
+    "descricaoCurta": "Titânide da luz brilhante e profética, associada à Lua.",
+    "historia": "Esposa de Coio, tornou-se mãe de Leto (mãe de Apolo e Ártemis) e Astéria. Herdou de Têmis o oráculo de Delfos, passando-o depois para Apolo. Seu nome significa “brilhante” e ela simboliza a sabedoria mística e a inspiração profética. ",
+    "detalhes": ""
+  },
+     {
+    "nome": "Têmis",
+    "imagem": "../assets/img/titans/temis.jpg",
+    "descricaoCurta": "Titânide da justiça divina, da lei e da ordem cósmica.",
+    "historia": "Conhecida como a personificação da justiça e da equidade, auxiliava Zeus em seu governo. Foi sua segunda esposa, dando à luz às Horas (estações/ordem do tempo) e às Moiras (destino). Não participou da guerra contra os olímpicos e foi respeitada pelos deuses como guardiã das leis imutáveis.",
+    "detalhes": ""
+  },
+     {
+    "nome": "Téia",
+    "imagem": "../assets/img/titans/teia.jpg",
+    "descricaoCurta": "Titânide da visão e da luz preciosa (pedras e metais brilhantes).",
+    "historia": "Esposa de Hipérion, foi mãe de Hélio (Sol), Selene (Lua) e Eos (Aurora). Seu nome significa “divina” e ela era associada ao poder da visão e ao brilho das joias e metais. Junto ao marido, representava o esplendor dos astros. É uma das doze Titãs da primeira geração, filha dos deuses primordiais Urano e Gaia. ",
+    "detalhes": ""
+  },
+     {
+    "nome": "Mnemósine",
+    "imagem": "../assets/img/titans/mnemosine.jpg",
+    "descricaoCurta": "Titânide da memória e da recordação.",
+    "historia": "Filha de Urano e Gaia, representa a memória, fundamental para a sabedoria e para a tradição oral dos mitos. Com Zeus, foi mãe das nove Musas, deusas das artes e do conhecimento (como Calíope, Clio, Terpsícore etc.). Era lembrada como guardiã do conhecimento e da inspiração poética.",
+    "detalhes": ""
+  },
 
 
 
